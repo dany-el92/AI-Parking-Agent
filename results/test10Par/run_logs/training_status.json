@@ -1,0 +1,4529 @@
+{
+    "CarBehavior": {
+        "checkpoints": [
+            {
+                "steps": 99902,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-99902.onnx",
+                "reward": -12.0,
+                "creation_time": 1714636769.272429,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-99902.pt"
+                ]
+            },
+            {
+                "steps": 199772,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-199772.onnx",
+                "reward": -50.0,
+                "creation_time": 1714636894.681675,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-199772.pt"
+                ]
+            },
+            {
+                "steps": 299762,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-299762.onnx",
+                "reward": -50.0,
+                "creation_time": 1714637022.177294,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-299762.pt"
+                ]
+            },
+            {
+                "steps": 399843,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-399843.onnx",
+                "reward": 35.31343791484833,
+                "creation_time": 1714637146.698449,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-399843.pt"
+                ]
+            },
+            {
+                "steps": 499832,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-499832.onnx",
+                "reward": -50.0,
+                "creation_time": 1714637271.740484,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-499832.pt"
+                ]
+            },
+            {
+                "steps": 599839,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-599839.onnx",
+                "reward": 374.4973491032918,
+                "creation_time": 1714637396.533479,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-599839.pt"
+                ]
+            },
+            {
+                "steps": 699875,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-699875.onnx",
+                "reward": 1173.2968368530273,
+                "creation_time": 1714637520.7658088,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-699875.pt"
+                ]
+            },
+            {
+                "steps": 799973,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-799973.onnx",
+                "reward": 45.29918336868286,
+                "creation_time": 1714637640.72272,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-799973.pt"
+                ]
+            },
+            {
+                "steps": 899801,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-899801.onnx",
+                "reward": 908.7941265106201,
+                "creation_time": 1714637756.730258,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-899801.pt"
+                ]
+            },
+            {
+                "steps": 999841,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-999841.onnx",
+                "reward": 235.75161037445068,
+                "creation_time": 1714637877.6572008,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-999841.pt"
+                ]
+            },
+            {
+                "steps": 1099895,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-1099895.onnx",
+                "reward": 953.5961346626282,
+                "creation_time": 1714637996.806412,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-1099895.pt"
+                ]
+            },
+            {
+                "steps": 1199937,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-1199937.onnx",
+                "reward": null,
+                "creation_time": 1714638117.2686899,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-1199937.pt"
+                ]
+            },
+            {
+                "steps": 1299839,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-1299839.onnx",
+                "reward": null,
+                "creation_time": 1714638234.4662452,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-1299839.pt"
+                ]
+            },
+            {
+                "steps": 1399818,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-1399818.onnx",
+                "reward": null,
+                "creation_time": 1714638351.1668859,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-1399818.pt"
+                ]
+            },
+            {
+                "steps": 1499872,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-1499872.onnx",
+                "reward": null,
+                "creation_time": 1714638468.407319,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-1499872.pt"
+                ]
+            },
+            {
+                "steps": 1599921,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-1599921.onnx",
+                "reward": null,
+                "creation_time": 1714638584.981163,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-1599921.pt"
+                ]
+            },
+            {
+                "steps": 1699772,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-1699772.onnx",
+                "reward": 294.6440796852112,
+                "creation_time": 1714638698.138227,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-1699772.pt"
+                ]
+            },
+            {
+                "steps": 1799870,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-1799870.onnx",
+                "reward": 1523.7112350463867,
+                "creation_time": 1714638814.0646741,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-1799870.pt"
+                ]
+            },
+            {
+                "steps": 1899907,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-1899907.onnx",
+                "reward": null,
+                "creation_time": 1714638933.154023,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-1899907.pt"
+                ]
+            },
+            {
+                "steps": 1999757,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-1999757.onnx",
+                "reward": null,
+                "creation_time": 1714639049.2315688,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-1999757.pt"
+                ]
+            },
+            {
+                "steps": 2099978,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-2099978.onnx",
+                "reward": null,
+                "creation_time": 1714639165.11066,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-2099978.pt"
+                ]
+            },
+            {
+                "steps": 2199841,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-2199841.onnx",
+                "reward": null,
+                "creation_time": 1714639282.349247,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-2199841.pt"
+                ]
+            },
+            {
+                "steps": 2299749,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-2299749.onnx",
+                "reward": 752.0184752146403,
+                "creation_time": 1714639395.892468,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-2299749.pt"
+                ]
+            },
+            {
+                "steps": 2399898,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-2399898.onnx",
+                "reward": 4765.349182128906,
+                "creation_time": 1714639514.909918,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-2399898.pt"
+                ]
+            },
+            {
+                "steps": 2499873,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-2499873.onnx",
+                "reward": 1387.655963897705,
+                "creation_time": 1714639628.8569548,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-2499873.pt"
+                ]
+            },
+            {
+                "steps": 2599780,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-2599780.onnx",
+                "reward": 2229.9767163594565,
+                "creation_time": 1714639745.268037,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-2599780.pt"
+                ]
+            },
+            {
+                "steps": 2699781,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-2699781.onnx",
+                "reward": -18.0,
+                "creation_time": 1714639861.366055,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-2699781.pt"
+                ]
+            },
+            {
+                "steps": 2799859,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-2799859.onnx",
+                "reward": 2079.939682006836,
+                "creation_time": 1714639976.884594,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-2799859.pt"
+                ]
+            },
+            {
+                "steps": 2899763,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-2899763.onnx",
+                "reward": null,
+                "creation_time": 1714640095.6320379,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-2899763.pt"
+                ]
+            },
+            {
+                "steps": 2999866,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-2999866.onnx",
+                "reward": null,
+                "creation_time": 1714640211.589376,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-2999866.pt"
+                ]
+            },
+            {
+                "steps": 3099978,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-3099978.onnx",
+                "reward": 1922.0855979919434,
+                "creation_time": 1714640325.745528,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-3099978.pt"
+                ]
+            },
+            {
+                "steps": 3199935,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-3199935.onnx",
+                "reward": null,
+                "creation_time": 1714640441.486967,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-3199935.pt"
+                ]
+            },
+            {
+                "steps": 3299855,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-3299855.onnx",
+                "reward": 2666.7848052978516,
+                "creation_time": 1714640556.1349509,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-3299855.pt"
+                ]
+            },
+            {
+                "steps": 3399850,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-3399850.onnx",
+                "reward": 5087.964080810547,
+                "creation_time": 1714640672.334988,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-3399850.pt"
+                ]
+            },
+            {
+                "steps": 3499910,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-3499910.onnx",
+                "reward": 2753.413328806559,
+                "creation_time": 1714640788.45689,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-3499910.pt"
+                ]
+            },
+            {
+                "steps": 3599836,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-3599836.onnx",
+                "reward": 1849.1659698486328,
+                "creation_time": 1714640905.113748,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-3599836.pt"
+                ]
+            },
+            {
+                "steps": 3699979,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-3699979.onnx",
+                "reward": 1608.8274230957031,
+                "creation_time": 1714641021.934595,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-3699979.pt"
+                ]
+            },
+            {
+                "steps": 3799813,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-3799813.onnx",
+                "reward": null,
+                "creation_time": 1714641139.574006,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-3799813.pt"
+                ]
+            },
+            {
+                "steps": 3899988,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-3899988.onnx",
+                "reward": 1451.9726384480794,
+                "creation_time": 1714641258.270916,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-3899988.pt"
+                ]
+            },
+            {
+                "steps": 3999822,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-3999822.onnx",
+                "reward": 2528.986557006836,
+                "creation_time": 1714641382.118646,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-3999822.pt"
+                ]
+            },
+            {
+                "steps": 4099873,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-4099873.onnx",
+                "reward": 1792.5606994628906,
+                "creation_time": 1714641503.334612,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-4099873.pt"
+                ]
+            },
+            {
+                "steps": 4199791,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-4199791.onnx",
+                "reward": 1350.5520858764648,
+                "creation_time": 1714641623.727215,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-4199791.pt"
+                ]
+            },
+            {
+                "steps": 4299871,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-4299871.onnx",
+                "reward": 5337.991668701172,
+                "creation_time": 1714641746.4488618,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-4299871.pt"
+                ]
+            },
+            {
+                "steps": 4399961,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-4399961.onnx",
+                "reward": null,
+                "creation_time": 1714641868.089709,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-4399961.pt"
+                ]
+            },
+            {
+                "steps": 4499997,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-4499997.onnx",
+                "reward": -12.0,
+                "creation_time": 1714641988.3329332,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-4499997.pt"
+                ]
+            },
+            {
+                "steps": 4599760,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-4599760.onnx",
+                "reward": 2777.0242652893066,
+                "creation_time": 1714642108.261987,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-4599760.pt"
+                ]
+            },
+            {
+                "steps": 4699832,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-4699832.onnx",
+                "reward": null,
+                "creation_time": 1714642229.4811032,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-4699832.pt"
+                ]
+            },
+            {
+                "steps": 4799809,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-4799809.onnx",
+                "reward": 1261.1702842712402,
+                "creation_time": 1714642348.8500469,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-4799809.pt"
+                ]
+            },
+            {
+                "steps": 4899736,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-4899736.onnx",
+                "reward": 1591.7380676269531,
+                "creation_time": 1714642469.2096498,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-4899736.pt"
+                ]
+            },
+            {
+                "steps": 4999964,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-4999964.onnx",
+                "reward": 2815.034736633301,
+                "creation_time": 1714642591.0845,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-4999964.pt"
+                ]
+            },
+            {
+                "steps": 5099775,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-5099775.onnx",
+                "reward": 345.8216667175293,
+                "creation_time": 1714642712.189355,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-5099775.pt"
+                ]
+            },
+            {
+                "steps": 5199745,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-5199745.onnx",
+                "reward": 2734.6985244750977,
+                "creation_time": 1714642830.246318,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-5199745.pt"
+                ]
+            },
+            {
+                "steps": 5299913,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-5299913.onnx",
+                "reward": 180.18856048583984,
+                "creation_time": 1714642950.115754,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-5299913.pt"
+                ]
+            },
+            {
+                "steps": 5399875,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-5399875.onnx",
+                "reward": 317.2496643066406,
+                "creation_time": 1714643074.363643,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-5399875.pt"
+                ]
+            },
+            {
+                "steps": 5499952,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-5499952.onnx",
+                "reward": null,
+                "creation_time": 1714643195.682492,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-5499952.pt"
+                ]
+            },
+            {
+                "steps": 5599935,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-5599935.onnx",
+                "reward": 1073.9441833496094,
+                "creation_time": 1714643316.3788328,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-5599935.pt"
+                ]
+            },
+            {
+                "steps": 5699942,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-5699942.onnx",
+                "reward": null,
+                "creation_time": 1714643439.128361,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-5699942.pt"
+                ]
+            },
+            {
+                "steps": 5799907,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-5799907.onnx",
+                "reward": null,
+                "creation_time": 1714643560.6764338,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-5799907.pt"
+                ]
+            },
+            {
+                "steps": 5899763,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-5899763.onnx",
+                "reward": 2560.9081268310547,
+                "creation_time": 1714643679.849681,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-5899763.pt"
+                ]
+            },
+            {
+                "steps": 5999763,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-5999763.onnx",
+                "reward": null,
+                "creation_time": 1714643798.378478,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-5999763.pt"
+                ]
+            },
+            {
+                "steps": 6099812,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-6099812.onnx",
+                "reward": 927.6829376220703,
+                "creation_time": 1714643915.911755,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-6099812.pt"
+                ]
+            },
+            {
+                "steps": 6199869,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-6199869.onnx",
+                "reward": 1313.9833068847656,
+                "creation_time": 1714644034.628553,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-6199869.pt"
+                ]
+            },
+            {
+                "steps": 6299798,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-6299798.onnx",
+                "reward": null,
+                "creation_time": 1714644152.916332,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-6299798.pt"
+                ]
+            },
+            {
+                "steps": 6399781,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-6399781.onnx",
+                "reward": null,
+                "creation_time": 1714644268.311887,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-6399781.pt"
+                ]
+            },
+            {
+                "steps": 6499992,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-6499992.onnx",
+                "reward": 310.5780258178711,
+                "creation_time": 1714644383.8789508,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-6499992.pt"
+                ]
+            },
+            {
+                "steps": 6599770,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-6599770.onnx",
+                "reward": 1765.075527191162,
+                "creation_time": 1714644503.002081,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-6599770.pt"
+                ]
+            },
+            {
+                "steps": 6699983,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-6699983.onnx",
+                "reward": 2326.548484802246,
+                "creation_time": 1714644624.30243,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-6699983.pt"
+                ]
+            },
+            {
+                "steps": 6799857,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-6799857.onnx",
+                "reward": 1480.1100234985352,
+                "creation_time": 1714644744.2137222,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-6799857.pt"
+                ]
+            },
+            {
+                "steps": 6899745,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-6899745.onnx",
+                "reward": 2221.999387105306,
+                "creation_time": 1714644863.983451,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-6899745.pt"
+                ]
+            },
+            {
+                "steps": 6999942,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-6999942.onnx",
+                "reward": 2575.904623031616,
+                "creation_time": 1714644984.186018,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-6999942.pt"
+                ]
+            },
+            {
+                "steps": 7099971,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-7099971.onnx",
+                "reward": 1661.625264485677,
+                "creation_time": 1714645104.328232,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-7099971.pt"
+                ]
+            },
+            {
+                "steps": 7199840,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-7199840.onnx",
+                "reward": null,
+                "creation_time": 1714645225.1911092,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-7199840.pt"
+                ]
+            },
+            {
+                "steps": 7299970,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-7299970.onnx",
+                "reward": 3797.2652282714844,
+                "creation_time": 1714645344.83355,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-7299970.pt"
+                ]
+            },
+            {
+                "steps": 7399973,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-7399973.onnx",
+                "reward": 628.4930282592774,
+                "creation_time": 1714645464.538327,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-7399973.pt"
+                ]
+            },
+            {
+                "steps": 7499903,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-7499903.onnx",
+                "reward": 289.69183349609375,
+                "creation_time": 1714645586.69134,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-7499903.pt"
+                ]
+            },
+            {
+                "steps": 7599876,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-7599876.onnx",
+                "reward": 2074.3896993001304,
+                "creation_time": 1714645708.2788742,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-7599876.pt"
+                ]
+            },
+            {
+                "steps": 7699897,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-7699897.onnx",
+                "reward": 2643.7596893310547,
+                "creation_time": 1714645830.694744,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-7699897.pt"
+                ]
+            },
+            {
+                "steps": 7799745,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-7799745.onnx",
+                "reward": 276.65350341796875,
+                "creation_time": 1714645952.852979,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-7799745.pt"
+                ]
+            },
+            {
+                "steps": 7899982,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-7899982.onnx",
+                "reward": 2330.540557861328,
+                "creation_time": 1714646074.885515,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-7899982.pt"
+                ]
+            },
+            {
+                "steps": 7999752,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-7999752.onnx",
+                "reward": 1018.2244457176754,
+                "creation_time": 1714646194.179806,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-7999752.pt"
+                ]
+            },
+            {
+                "steps": 8099848,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-8099848.onnx",
+                "reward": 1999.704002380371,
+                "creation_time": 1714646311.6290681,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-8099848.pt"
+                ]
+            },
+            {
+                "steps": 8199890,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-8199890.onnx",
+                "reward": 2625.8189697265625,
+                "creation_time": 1714646431.359335,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-8199890.pt"
+                ]
+            },
+            {
+                "steps": 8299983,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-8299983.onnx",
+                "reward": null,
+                "creation_time": 1714646551.7291641,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-8299983.pt"
+                ]
+            },
+            {
+                "steps": 8399873,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-8399873.onnx",
+                "reward": 4148.477317810059,
+                "creation_time": 1714646665.266028,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-8399873.pt"
+                ]
+            },
+            {
+                "steps": 8499896,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-8499896.onnx",
+                "reward": null,
+                "creation_time": 1714646783.939878,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-8499896.pt"
+                ]
+            },
+            {
+                "steps": 8599853,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-8599853.onnx",
+                "reward": null,
+                "creation_time": 1714646900.2579908,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-8599853.pt"
+                ]
+            },
+            {
+                "steps": 8699901,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-8699901.onnx",
+                "reward": 654.0318450927734,
+                "creation_time": 1714647015.833277,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-8699901.pt"
+                ]
+            },
+            {
+                "steps": 8799939,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-8799939.onnx",
+                "reward": 3233.0944595336914,
+                "creation_time": 1714647132.283946,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-8799939.pt"
+                ]
+            },
+            {
+                "steps": 8899794,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-8899794.onnx",
+                "reward": null,
+                "creation_time": 1714647248.374412,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-8899794.pt"
+                ]
+            },
+            {
+                "steps": 8999998,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-8999998.onnx",
+                "reward": 5307.331634521484,
+                "creation_time": 1714647363.5937579,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-8999998.pt"
+                ]
+            },
+            {
+                "steps": 9099778,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-9099778.onnx",
+                "reward": 371.26234436035156,
+                "creation_time": 1714647479.530464,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-9099778.pt"
+                ]
+            },
+            {
+                "steps": 9199931,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-9199931.onnx",
+                "reward": 339.42185974121094,
+                "creation_time": 1714647595.272057,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-9199931.pt"
+                ]
+            },
+            {
+                "steps": 9299863,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-9299863.onnx",
+                "reward": 3462.0752716064453,
+                "creation_time": 1714647710.9367921,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-9299863.pt"
+                ]
+            },
+            {
+                "steps": 9399778,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-9399778.onnx",
+                "reward": null,
+                "creation_time": 1714647826.8035479,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-9399778.pt"
+                ]
+            },
+            {
+                "steps": 9499977,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-9499977.onnx",
+                "reward": null,
+                "creation_time": 1714647942.984403,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-9499977.pt"
+                ]
+            },
+            {
+                "steps": 9599962,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-9599962.onnx",
+                "reward": null,
+                "creation_time": 1714648059.3938959,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-9599962.pt"
+                ]
+            },
+            {
+                "steps": 9699762,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-9699762.onnx",
+                "reward": null,
+                "creation_time": 1714648175.45775,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-9699762.pt"
+                ]
+            },
+            {
+                "steps": 9799935,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-9799935.onnx",
+                "reward": null,
+                "creation_time": 1714648290.992448,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-9799935.pt"
+                ]
+            },
+            {
+                "steps": 9899776,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-9899776.onnx",
+                "reward": null,
+                "creation_time": 1714648407.276593,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-9899776.pt"
+                ]
+            },
+            {
+                "steps": 9999764,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-9999764.onnx",
+                "reward": 1896.4581451416016,
+                "creation_time": 1714648522.7031329,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-9999764.pt"
+                ]
+            },
+            {
+                "steps": 10099995,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-10099995.onnx",
+                "reward": 4729.229729175568,
+                "creation_time": 1714648638.2605681,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-10099995.pt"
+                ]
+            },
+            {
+                "steps": 10199777,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-10199777.onnx",
+                "reward": 1476.7878665924072,
+                "creation_time": 1714648754.053671,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-10199777.pt"
+                ]
+            },
+            {
+                "steps": 10299837,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-10299837.onnx",
+                "reward": 613.9839448928833,
+                "creation_time": 1714648870.4398148,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-10299837.pt"
+                ]
+            },
+            {
+                "steps": 10399788,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-10399788.onnx",
+                "reward": 2389.5382900238037,
+                "creation_time": 1714648986.222232,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-10399788.pt"
+                ]
+            },
+            {
+                "steps": 10499792,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-10499792.onnx",
+                "reward": 1190.9888763427734,
+                "creation_time": 1714649102.636632,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-10499792.pt"
+                ]
+            },
+            {
+                "steps": 10599971,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-10599971.onnx",
+                "reward": 1944.8047466278076,
+                "creation_time": 1714649219.1327271,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-10599971.pt"
+                ]
+            },
+            {
+                "steps": 10699820,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-10699820.onnx",
+                "reward": 601.3023891448975,
+                "creation_time": 1714649336.117075,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-10699820.pt"
+                ]
+            },
+            {
+                "steps": 10799901,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-10799901.onnx",
+                "reward": null,
+                "creation_time": 1714649454.25014,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-10799901.pt"
+                ]
+            },
+            {
+                "steps": 10899768,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-10899768.onnx",
+                "reward": 5064.120254516602,
+                "creation_time": 1714649548.32006,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-10899768.pt"
+                ]
+            },
+            {
+                "steps": 10999786,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-10999786.onnx",
+                "reward": 4817.835342407227,
+                "creation_time": 1714649641.6062772,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-10999786.pt"
+                ]
+            },
+            {
+                "steps": 11099977,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-11099977.onnx",
+                "reward": null,
+                "creation_time": 1714649735.993362,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-11099977.pt"
+                ]
+            },
+            {
+                "steps": 11199937,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-11199937.onnx",
+                "reward": null,
+                "creation_time": 1714649829.237165,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-11199937.pt"
+                ]
+            },
+            {
+                "steps": 11299876,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-11299876.onnx",
+                "reward": 2031.819263458252,
+                "creation_time": 1714649921.061996,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-11299876.pt"
+                ]
+            },
+            {
+                "steps": 11399741,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-11399741.onnx",
+                "reward": 1142.4603258768718,
+                "creation_time": 1714650012.545934,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-11399741.pt"
+                ]
+            },
+            {
+                "steps": 11499888,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-11499888.onnx",
+                "reward": 1388.5295136769612,
+                "creation_time": 1714650104.489095,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-11499888.pt"
+                ]
+            },
+            {
+                "steps": 11599788,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-11599788.onnx",
+                "reward": null,
+                "creation_time": 1714650197.598811,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-11599788.pt"
+                ]
+            },
+            {
+                "steps": 11699847,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-11699847.onnx",
+                "reward": null,
+                "creation_time": 1714650288.409997,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-11699847.pt"
+                ]
+            },
+            {
+                "steps": 11799996,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-11799996.onnx",
+                "reward": null,
+                "creation_time": 1714650380.1480892,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-11799996.pt"
+                ]
+            },
+            {
+                "steps": 11899837,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-11899837.onnx",
+                "reward": null,
+                "creation_time": 1714650470.805093,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-11899837.pt"
+                ]
+            },
+            {
+                "steps": 11999884,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-11999884.onnx",
+                "reward": null,
+                "creation_time": 1714650561.1374478,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-11999884.pt"
+                ]
+            },
+            {
+                "steps": 12099816,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-12099816.onnx",
+                "reward": null,
+                "creation_time": 1714650652.455797,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-12099816.pt"
+                ]
+            },
+            {
+                "steps": 12199797,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-12199797.onnx",
+                "reward": 4611.767967224121,
+                "creation_time": 1714650743.207041,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-12199797.pt"
+                ]
+            },
+            {
+                "steps": 12299848,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-12299848.onnx",
+                "reward": 1775.8375244140625,
+                "creation_time": 1714650834.2884212,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-12299848.pt"
+                ]
+            },
+            {
+                "steps": 12399958,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-12399958.onnx",
+                "reward": null,
+                "creation_time": 1714650924.949096,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-12399958.pt"
+                ]
+            },
+            {
+                "steps": 12499993,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-12499993.onnx",
+                "reward": null,
+                "creation_time": 1714651015.944484,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-12499993.pt"
+                ]
+            },
+            {
+                "steps": 12599924,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-12599924.onnx",
+                "reward": null,
+                "creation_time": 1714651106.8394291,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-12599924.pt"
+                ]
+            },
+            {
+                "steps": 12699789,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-12699789.onnx",
+                "reward": null,
+                "creation_time": 1714651197.4899662,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-12699789.pt"
+                ]
+            },
+            {
+                "steps": 12799863,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-12799863.onnx",
+                "reward": null,
+                "creation_time": 1714651289.038483,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-12799863.pt"
+                ]
+            },
+            {
+                "steps": 12899768,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-12899768.onnx",
+                "reward": null,
+                "creation_time": 1714651379.659817,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-12899768.pt"
+                ]
+            },
+            {
+                "steps": 12999826,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-12999826.onnx",
+                "reward": 1340.2556238174438,
+                "creation_time": 1714651470.965491,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-12999826.pt"
+                ]
+            },
+            {
+                "steps": 13099991,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-13099991.onnx",
+                "reward": 1736.2356185913086,
+                "creation_time": 1714651561.566072,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-13099991.pt"
+                ]
+            },
+            {
+                "steps": 13199775,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-13199775.onnx",
+                "reward": 174.4562063217163,
+                "creation_time": 1714651652.088646,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-13199775.pt"
+                ]
+            },
+            {
+                "steps": 13299856,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-13299856.onnx",
+                "reward": 877.8143005371094,
+                "creation_time": 1714651744.335018,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-13299856.pt"
+                ]
+            },
+            {
+                "steps": 13399943,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-13399943.onnx",
+                "reward": 1427.316822052002,
+                "creation_time": 1714651835.240745,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-13399943.pt"
+                ]
+            },
+            {
+                "steps": 13499984,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-13499984.onnx",
+                "reward": 1572.0684336662293,
+                "creation_time": 1714651926.4445791,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-13499984.pt"
+                ]
+            },
+            {
+                "steps": 13599743,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-13599743.onnx",
+                "reward": 245.2260684967041,
+                "creation_time": 1714652018.504386,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-13599743.pt"
+                ]
+            },
+            {
+                "steps": 13699755,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-13699755.onnx",
+                "reward": 3397.0591700077057,
+                "creation_time": 1714652109.858607,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-13699755.pt"
+                ]
+            },
+            {
+                "steps": 13799889,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-13799889.onnx",
+                "reward": 2287.148106098175,
+                "creation_time": 1714652201.180765,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-13799889.pt"
+                ]
+            },
+            {
+                "steps": 13899910,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-13899910.onnx",
+                "reward": 1229.8235019048054,
+                "creation_time": 1714652292.2260978,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-13899910.pt"
+                ]
+            },
+            {
+                "steps": 13999939,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-13999939.onnx",
+                "reward": null,
+                "creation_time": 1714652385.4843829,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-13999939.pt"
+                ]
+            },
+            {
+                "steps": 14099858,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-14099858.onnx",
+                "reward": 1689.6355497837067,
+                "creation_time": 1714652475.2624571,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-14099858.pt"
+                ]
+            },
+            {
+                "steps": 14199973,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-14199973.onnx",
+                "reward": 317.2874399820964,
+                "creation_time": 1714652566.584171,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-14199973.pt"
+                ]
+            },
+            {
+                "steps": 14299857,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-14299857.onnx",
+                "reward": 2668.3014698028564,
+                "creation_time": 1714652657.984457,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-14299857.pt"
+                ]
+            },
+            {
+                "steps": 14399747,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-14399747.onnx",
+                "reward": 902.8075256347656,
+                "creation_time": 1714652751.110137,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-14399747.pt"
+                ]
+            },
+            {
+                "steps": 14499795,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-14499795.onnx",
+                "reward": 660.4068374633789,
+                "creation_time": 1714652842.774017,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-14499795.pt"
+                ]
+            },
+            {
+                "steps": 14599907,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-14599907.onnx",
+                "reward": null,
+                "creation_time": 1714652934.94323,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-14599907.pt"
+                ]
+            },
+            {
+                "steps": 14699932,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-14699932.onnx",
+                "reward": 20.46196746826172,
+                "creation_time": 1714653026.527679,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-14699932.pt"
+                ]
+            },
+            {
+                "steps": 14799885,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-14799885.onnx",
+                "reward": null,
+                "creation_time": 1714653117.788067,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-14799885.pt"
+                ]
+            },
+            {
+                "steps": 14899932,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-14899932.onnx",
+                "reward": 3053.8103682200112,
+                "creation_time": 1714653209.202107,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-14899932.pt"
+                ]
+            },
+            {
+                "steps": 14999809,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-14999809.onnx",
+                "reward": 630.762451171875,
+                "creation_time": 1714653301.3738189,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-14999809.pt"
+                ]
+            },
+            {
+                "steps": 15099876,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-15099876.onnx",
+                "reward": 849.9757019042969,
+                "creation_time": 1714653394.240895,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-15099876.pt"
+                ]
+            },
+            {
+                "steps": 15199829,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-15199829.onnx",
+                "reward": 899.8649387359619,
+                "creation_time": 1714653486.190666,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-15199829.pt"
+                ]
+            },
+            {
+                "steps": 15299868,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-15299868.onnx",
+                "reward": 544.3581593831381,
+                "creation_time": 1714653577.391562,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-15299868.pt"
+                ]
+            },
+            {
+                "steps": 15399831,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-15399831.onnx",
+                "reward": 1349.3502295414607,
+                "creation_time": 1714653669.208726,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-15399831.pt"
+                ]
+            },
+            {
+                "steps": 15499921,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-15499921.onnx",
+                "reward": 1846.7113800048828,
+                "creation_time": 1714653761.251372,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-15499921.pt"
+                ]
+            },
+            {
+                "steps": 15599860,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-15599860.onnx",
+                "reward": 2231.8750785191855,
+                "creation_time": 1714653853.521502,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-15599860.pt"
+                ]
+            },
+            {
+                "steps": 15699995,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-15699995.onnx",
+                "reward": null,
+                "creation_time": 1714653947.7491798,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-15699995.pt"
+                ]
+            },
+            {
+                "steps": 15799829,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-15799829.onnx",
+                "reward": 825.2938537597656,
+                "creation_time": 1714654037.507089,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-15799829.pt"
+                ]
+            },
+            {
+                "steps": 15899948,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-15899948.onnx",
+                "reward": 2162.2419741153717,
+                "creation_time": 1714654128.603683,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-15899948.pt"
+                ]
+            },
+            {
+                "steps": 15999934,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-15999934.onnx",
+                "reward": 1107.8441660404205,
+                "creation_time": 1714654221.3188531,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-15999934.pt"
+                ]
+            },
+            {
+                "steps": 16099907,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-16099907.onnx",
+                "reward": 1408.8853454589844,
+                "creation_time": 1714654311.4917288,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-16099907.pt"
+                ]
+            },
+            {
+                "steps": 16199769,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-16199769.onnx",
+                "reward": 880.6305541992188,
+                "creation_time": 1714654403.10082,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-16199769.pt"
+                ]
+            },
+            {
+                "steps": 16299762,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-16299762.onnx",
+                "reward": 1783.9442087809246,
+                "creation_time": 1714654494.38349,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-16299762.pt"
+                ]
+            },
+            {
+                "steps": 16399977,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-16399977.onnx",
+                "reward": null,
+                "creation_time": 1714654587.557549,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-16399977.pt"
+                ]
+            },
+            {
+                "steps": 16499873,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-16499873.onnx",
+                "reward": null,
+                "creation_time": 1714654678.441565,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-16499873.pt"
+                ]
+            },
+            {
+                "steps": 16599781,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-16599781.onnx",
+                "reward": null,
+                "creation_time": 1714654770.046102,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-16599781.pt"
+                ]
+            },
+            {
+                "steps": 16699849,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-16699849.onnx",
+                "reward": null,
+                "creation_time": 1714654861.3218691,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-16699849.pt"
+                ]
+            },
+            {
+                "steps": 16799795,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-16799795.onnx",
+                "reward": null,
+                "creation_time": 1714654952.8457952,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-16799795.pt"
+                ]
+            },
+            {
+                "steps": 16899958,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-16899958.onnx",
+                "reward": 3892.1581802368164,
+                "creation_time": 1714655044.292491,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-16899958.pt"
+                ]
+            },
+            {
+                "steps": 16999874,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-16999874.onnx",
+                "reward": 481.8547296524048,
+                "creation_time": 1714655135.143436,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-16999874.pt"
+                ]
+            },
+            {
+                "steps": 17099806,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-17099806.onnx",
+                "reward": 1222.6606176376342,
+                "creation_time": 1714655227.251625,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-17099806.pt"
+                ]
+            },
+            {
+                "steps": 17199916,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-17199916.onnx",
+                "reward": 428.56828689575195,
+                "creation_time": 1714655319.204341,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-17199916.pt"
+                ]
+            },
+            {
+                "steps": 17299817,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-17299817.onnx",
+                "reward": 636.8267377217611,
+                "creation_time": 1714655410.285179,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-17299817.pt"
+                ]
+            },
+            {
+                "steps": 17399992,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-17399992.onnx",
+                "reward": null,
+                "creation_time": 1714655501.980737,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-17399992.pt"
+                ]
+            },
+            {
+                "steps": 17499962,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-17499962.onnx",
+                "reward": 5213.571746826172,
+                "creation_time": 1714655593.7461288,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-17499962.pt"
+                ]
+            },
+            {
+                "steps": 17599852,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-17599852.onnx",
+                "reward": null,
+                "creation_time": 1714655685.248823,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-17599852.pt"
+                ]
+            },
+            {
+                "steps": 17699795,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-17699795.onnx",
+                "reward": null,
+                "creation_time": 1714655776.476254,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-17699795.pt"
+                ]
+            },
+            {
+                "steps": 17799998,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-17799998.onnx",
+                "reward": null,
+                "creation_time": 1714655868.858294,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-17799998.pt"
+                ]
+            },
+            {
+                "steps": 17899867,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-17899867.onnx",
+                "reward": null,
+                "creation_time": 1714655960.0724502,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-17899867.pt"
+                ]
+            },
+            {
+                "steps": 17999855,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-17999855.onnx",
+                "reward": null,
+                "creation_time": 1714656051.435916,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-17999855.pt"
+                ]
+            },
+            {
+                "steps": 18099887,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-18099887.onnx",
+                "reward": null,
+                "creation_time": 1714656143.238215,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-18099887.pt"
+                ]
+            },
+            {
+                "steps": 18199742,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-18199742.onnx",
+                "reward": 406.7283115386963,
+                "creation_time": 1714656235.247769,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-18199742.pt"
+                ]
+            },
+            {
+                "steps": 18299875,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-18299875.onnx",
+                "reward": 311.1239700317383,
+                "creation_time": 1714656326.958632,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-18299875.pt"
+                ]
+            },
+            {
+                "steps": 18399827,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-18399827.onnx",
+                "reward": 314.9640488624573,
+                "creation_time": 1714656419.27773,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-18399827.pt"
+                ]
+            },
+            {
+                "steps": 18499810,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-18499810.onnx",
+                "reward": null,
+                "creation_time": 1714656511.036159,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-18499810.pt"
+                ]
+            },
+            {
+                "steps": 18599753,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-18599753.onnx",
+                "reward": 935.1828460693359,
+                "creation_time": 1714656601.849608,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-18599753.pt"
+                ]
+            },
+            {
+                "steps": 18699999,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-18699999.onnx",
+                "reward": 1849.27197265625,
+                "creation_time": 1714656692.91072,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-18699999.pt"
+                ]
+            },
+            {
+                "steps": 18799883,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-18799883.onnx",
+                "reward": 4451.305726051331,
+                "creation_time": 1714656783.720008,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-18799883.pt"
+                ]
+            },
+            {
+                "steps": 18899944,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-18899944.onnx",
+                "reward": 3369.5133056640625,
+                "creation_time": 1714656875.1612868,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-18899944.pt"
+                ]
+            },
+            {
+                "steps": 18999994,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-18999994.onnx",
+                "reward": 770.1095504760742,
+                "creation_time": 1714656967.3184168,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-18999994.pt"
+                ]
+            },
+            {
+                "steps": 19099820,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-19099820.onnx",
+                "reward": 3002.2597045898438,
+                "creation_time": 1714657059.382384,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-19099820.pt"
+                ]
+            },
+            {
+                "steps": 19199961,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-19199961.onnx",
+                "reward": null,
+                "creation_time": 1714657151.304068,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-19199961.pt"
+                ]
+            },
+            {
+                "steps": 19299929,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-19299929.onnx",
+                "reward": 4649.134666442871,
+                "creation_time": 1714657242.719869,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-19299929.pt"
+                ]
+            },
+            {
+                "steps": 19399814,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-19399814.onnx",
+                "reward": null,
+                "creation_time": 1714657334.381564,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-19399814.pt"
+                ]
+            },
+            {
+                "steps": 19499849,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-19499849.onnx",
+                "reward": null,
+                "creation_time": 1714657426.804883,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-19499849.pt"
+                ]
+            },
+            {
+                "steps": 19599820,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-19599820.onnx",
+                "reward": 4902.405059814453,
+                "creation_time": 1714657519.23425,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-19599820.pt"
+                ]
+            },
+            {
+                "steps": 19699856,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-19699856.onnx",
+                "reward": 1982.4665489196777,
+                "creation_time": 1714657611.4082692,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-19699856.pt"
+                ]
+            },
+            {
+                "steps": 19799960,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-19799960.onnx",
+                "reward": 129.16336059570312,
+                "creation_time": 1714657704.0113401,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-19799960.pt"
+                ]
+            },
+            {
+                "steps": 19899885,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-19899885.onnx",
+                "reward": null,
+                "creation_time": 1714657794.49553,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-19899885.pt"
+                ]
+            },
+            {
+                "steps": 19999800,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-19999800.onnx",
+                "reward": 255.65432119369507,
+                "creation_time": 1714657885.968019,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-19999800.pt"
+                ]
+            },
+            {
+                "steps": 20099951,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-20099951.onnx",
+                "reward": 793.326265335083,
+                "creation_time": 1714657978.454069,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-20099951.pt"
+                ]
+            },
+            {
+                "steps": 20199739,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-20199739.onnx",
+                "reward": 565.6918792724609,
+                "creation_time": 1714658069.6491609,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-20199739.pt"
+                ]
+            },
+            {
+                "steps": 20299956,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-20299956.onnx",
+                "reward": 310.6432800292969,
+                "creation_time": 1714658160.817268,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-20299956.pt"
+                ]
+            },
+            {
+                "steps": 20399824,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-20399824.onnx",
+                "reward": null,
+                "creation_time": 1714658252.1648908,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-20399824.pt"
+                ]
+            },
+            {
+                "steps": 20499834,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-20499834.onnx",
+                "reward": 2847.3046295642853,
+                "creation_time": 1714658342.952127,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-20499834.pt"
+                ]
+            },
+            {
+                "steps": 20599837,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-20599837.onnx",
+                "reward": 2507.4245347499846,
+                "creation_time": 1714658434.727,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-20599837.pt"
+                ]
+            },
+            {
+                "steps": 20699962,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-20699962.onnx",
+                "reward": null,
+                "creation_time": 1714658526.533748,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-20699962.pt"
+                ]
+            },
+            {
+                "steps": 20799893,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-20799893.onnx",
+                "reward": 2068.5553601582847,
+                "creation_time": 1714658618.101484,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-20799893.pt"
+                ]
+            },
+            {
+                "steps": 20899798,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-20899798.onnx",
+                "reward": 2060.8554798762,
+                "creation_time": 1714658709.633311,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-20899798.pt"
+                ]
+            },
+            {
+                "steps": 20999970,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-20999970.onnx",
+                "reward": 2396.3952503204346,
+                "creation_time": 1714658801.252985,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-20999970.pt"
+                ]
+            },
+            {
+                "steps": 21099993,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-21099993.onnx",
+                "reward": 312.3310537338257,
+                "creation_time": 1714658892.668652,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-21099993.pt"
+                ]
+            },
+            {
+                "steps": 21199882,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-21199882.onnx",
+                "reward": 2665.103618621826,
+                "creation_time": 1714658983.21026,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-21199882.pt"
+                ]
+            },
+            {
+                "steps": 21299928,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-21299928.onnx",
+                "reward": 3749.0291244983673,
+                "creation_time": 1714659074.8343492,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-21299928.pt"
+                ]
+            },
+            {
+                "steps": 21399969,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-21399969.onnx",
+                "reward": 2643.905719280243,
+                "creation_time": 1714659165.531181,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-21399969.pt"
+                ]
+            },
+            {
+                "steps": 21499798,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-21499798.onnx",
+                "reward": 2778.9132223129272,
+                "creation_time": 1714659256.952708,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-21499798.pt"
+                ]
+            },
+            {
+                "steps": 21599911,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-21599911.onnx",
+                "reward": 2968.953064918518,
+                "creation_time": 1714659348.060548,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-21599911.pt"
+                ]
+            },
+            {
+                "steps": 21699928,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-21699928.onnx",
+                "reward": null,
+                "creation_time": 1714659439.5641248,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-21699928.pt"
+                ]
+            },
+            {
+                "steps": 21799804,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-21799804.onnx",
+                "reward": 341.0414800643921,
+                "creation_time": 1714659530.885251,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-21799804.pt"
+                ]
+            },
+            {
+                "steps": 21899948,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-21899948.onnx",
+                "reward": 577.5898947715759,
+                "creation_time": 1714659621.6958919,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-21899948.pt"
+                ]
+            },
+            {
+                "steps": 21999866,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-21999866.onnx",
+                "reward": 2241.9685049057007,
+                "creation_time": 1714659712.866484,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-21999866.pt"
+                ]
+            },
+            {
+                "steps": 22099748,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-22099748.onnx",
+                "reward": 172.37412643432617,
+                "creation_time": 1714659804.4871008,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-22099748.pt"
+                ]
+            },
+            {
+                "steps": 22199852,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-22199852.onnx",
+                "reward": 919.9425580501556,
+                "creation_time": 1714659895.510848,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-22199852.pt"
+                ]
+            },
+            {
+                "steps": 22299899,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-22299899.onnx",
+                "reward": 530.4546613693237,
+                "creation_time": 1714659986.055999,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-22299899.pt"
+                ]
+            },
+            {
+                "steps": 22399773,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-22399773.onnx",
+                "reward": null,
+                "creation_time": 1714660077.266388,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-22399773.pt"
+                ]
+            },
+            {
+                "steps": 22499894,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-22499894.onnx",
+                "reward": 4462.372741699219,
+                "creation_time": 1714660168.435411,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-22499894.pt"
+                ]
+            },
+            {
+                "steps": 22599848,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-22599848.onnx",
+                "reward": 2465.31755566597,
+                "creation_time": 1714660260.086771,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-22599848.pt"
+                ]
+            },
+            {
+                "steps": 22699845,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-22699845.onnx",
+                "reward": 1266.1763980388641,
+                "creation_time": 1714660351.0052118,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-22699845.pt"
+                ]
+            },
+            {
+                "steps": 22799856,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-22799856.onnx",
+                "reward": 5085.549524307251,
+                "creation_time": 1714660441.837284,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-22799856.pt"
+                ]
+            },
+            {
+                "steps": 22899976,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-22899976.onnx",
+                "reward": 5004.588680267334,
+                "creation_time": 1714660533.484889,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-22899976.pt"
+                ]
+            },
+            {
+                "steps": 22999999,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-22999999.onnx",
+                "reward": null,
+                "creation_time": 1714660624.685452,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-22999999.pt"
+                ]
+            },
+            {
+                "steps": 23099981,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-23099981.onnx",
+                "reward": 1453.245132446289,
+                "creation_time": 1714660716.023206,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-23099981.pt"
+                ]
+            },
+            {
+                "steps": 23199900,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-23199900.onnx",
+                "reward": 203.1474266052246,
+                "creation_time": 1714660808.360801,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-23199900.pt"
+                ]
+            },
+            {
+                "steps": 23299953,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-23299953.onnx",
+                "reward": null,
+                "creation_time": 1714660898.935327,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-23299953.pt"
+                ]
+            },
+            {
+                "steps": 23399781,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-23399781.onnx",
+                "reward": null,
+                "creation_time": 1714660990.420861,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-23399781.pt"
+                ]
+            },
+            {
+                "steps": 23499848,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-23499848.onnx",
+                "reward": null,
+                "creation_time": 1714661082.537478,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-23499848.pt"
+                ]
+            },
+            {
+                "steps": 23599983,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-23599983.onnx",
+                "reward": null,
+                "creation_time": 1714661174.050113,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-23599983.pt"
+                ]
+            },
+            {
+                "steps": 23699810,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-23699810.onnx",
+                "reward": 887.3392925262451,
+                "creation_time": 1714661265.375369,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-23699810.pt"
+                ]
+            },
+            {
+                "steps": 23799791,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-23799791.onnx",
+                "reward": null,
+                "creation_time": 1714661356.4323251,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-23799791.pt"
+                ]
+            },
+            {
+                "steps": 23899770,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-23899770.onnx",
+                "reward": null,
+                "creation_time": 1714661448.330786,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-23899770.pt"
+                ]
+            },
+            {
+                "steps": 23999793,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-23999793.onnx",
+                "reward": 2741.9643115997314,
+                "creation_time": 1714661539.090176,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-23999793.pt"
+                ]
+            },
+            {
+                "steps": 24099917,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-24099917.onnx",
+                "reward": 4196.656005859375,
+                "creation_time": 1714661631.091109,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-24099917.pt"
+                ]
+            },
+            {
+                "steps": 24199955,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-24199955.onnx",
+                "reward": null,
+                "creation_time": 1714661721.968181,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-24199955.pt"
+                ]
+            },
+            {
+                "steps": 24299749,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-24299749.onnx",
+                "reward": null,
+                "creation_time": 1714661813.334616,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-24299749.pt"
+                ]
+            },
+            {
+                "steps": 24399941,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-24399941.onnx",
+                "reward": 207.453706741333,
+                "creation_time": 1714661904.423646,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-24399941.pt"
+                ]
+            },
+            {
+                "steps": 24499776,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-24499776.onnx",
+                "reward": null,
+                "creation_time": 1714661995.852234,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-24499776.pt"
+                ]
+            },
+            {
+                "steps": 24599953,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-24599953.onnx",
+                "reward": null,
+                "creation_time": 1714662087.867121,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-24599953.pt"
+                ]
+            },
+            {
+                "steps": 24699851,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-24699851.onnx",
+                "reward": null,
+                "creation_time": 1714662178.816113,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-24699851.pt"
+                ]
+            },
+            {
+                "steps": 24799978,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-24799978.onnx",
+                "reward": null,
+                "creation_time": 1714662270.6810439,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-24799978.pt"
+                ]
+            },
+            {
+                "steps": 24899836,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-24899836.onnx",
+                "reward": 442.8886909484863,
+                "creation_time": 1714662361.663959,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-24899836.pt"
+                ]
+            },
+            {
+                "steps": 24999912,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-24999912.onnx",
+                "reward": null,
+                "creation_time": 1714662453.3410208,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-24999912.pt"
+                ]
+            },
+            {
+                "steps": 25099857,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-25099857.onnx",
+                "reward": null,
+                "creation_time": 1714662544.888732,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-25099857.pt"
+                ]
+            },
+            {
+                "steps": 25199996,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-25199996.onnx",
+                "reward": 161.83889770507812,
+                "creation_time": 1714662635.623399,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-25199996.pt"
+                ]
+            },
+            {
+                "steps": 25299986,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-25299986.onnx",
+                "reward": 2028.6200631459553,
+                "creation_time": 1714662727.286703,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-25299986.pt"
+                ]
+            },
+            {
+                "steps": 25399748,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-25399748.onnx",
+                "reward": null,
+                "creation_time": 1714662818.6426759,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-25399748.pt"
+                ]
+            },
+            {
+                "steps": 25499832,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-25499832.onnx",
+                "reward": 1385.4026794433594,
+                "creation_time": 1714662910.728531,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-25499832.pt"
+                ]
+            },
+            {
+                "steps": 25599764,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-25599764.onnx",
+                "reward": 2004.078203201294,
+                "creation_time": 1714663001.738184,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-25599764.pt"
+                ]
+            },
+            {
+                "steps": 25699856,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-25699856.onnx",
+                "reward": 260.58360600471497,
+                "creation_time": 1714663093.67287,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-25699856.pt"
+                ]
+            },
+            {
+                "steps": 25799969,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-25799969.onnx",
+                "reward": 924.4840278625488,
+                "creation_time": 1714663185.191204,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-25799969.pt"
+                ]
+            },
+            {
+                "steps": 25899769,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-25899769.onnx",
+                "reward": 1131.4069538116455,
+                "creation_time": 1714663277.114291,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-25899769.pt"
+                ]
+            },
+            {
+                "steps": 25999826,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-25999826.onnx",
+                "reward": null,
+                "creation_time": 1714663369.326755,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-25999826.pt"
+                ]
+            },
+            {
+                "steps": 26099975,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-26099975.onnx",
+                "reward": 854.3578677177429,
+                "creation_time": 1714663461.918328,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-26099975.pt"
+                ]
+            },
+            {
+                "steps": 26199889,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-26199889.onnx",
+                "reward": null,
+                "creation_time": 1714663554.131367,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-26199889.pt"
+                ]
+            },
+            {
+                "steps": 26299754,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-26299754.onnx",
+                "reward": 270.7179832458496,
+                "creation_time": 1714663646.5789812,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-26299754.pt"
+                ]
+            },
+            {
+                "steps": 26399926,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-26399926.onnx",
+                "reward": 5307.324249267578,
+                "creation_time": 1714663738.870401,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-26399926.pt"
+                ]
+            },
+            {
+                "steps": 26499814,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-26499814.onnx",
+                "reward": 3696.6739540100098,
+                "creation_time": 1714663831.387189,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-26499814.pt"
+                ]
+            },
+            {
+                "steps": 26599886,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-26599886.onnx",
+                "reward": 1271.0323243141174,
+                "creation_time": 1714663922.874198,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-26599886.pt"
+                ]
+            },
+            {
+                "steps": 26699832,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-26699832.onnx",
+                "reward": 689.9291664759318,
+                "creation_time": 1714664015.097877,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-26699832.pt"
+                ]
+            },
+            {
+                "steps": 26799764,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-26799764.onnx",
+                "reward": null,
+                "creation_time": 1714664107.56338,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-26799764.pt"
+                ]
+            },
+            {
+                "steps": 26899851,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-26899851.onnx",
+                "reward": null,
+                "creation_time": 1714664199.095602,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-26899851.pt"
+                ]
+            },
+            {
+                "steps": 26999967,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-26999967.onnx",
+                "reward": 445.0224838256836,
+                "creation_time": 1714664290.1883159,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-26999967.pt"
+                ]
+            },
+            {
+                "steps": 27099877,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-27099877.onnx",
+                "reward": 4223.962158203125,
+                "creation_time": 1714664381.1723158,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-27099877.pt"
+                ]
+            },
+            {
+                "steps": 27199978,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-27199978.onnx",
+                "reward": null,
+                "creation_time": 1714664472.931602,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-27199978.pt"
+                ]
+            },
+            {
+                "steps": 27299782,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-27299782.onnx",
+                "reward": 749.1642538706461,
+                "creation_time": 1714664564.117228,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-27299782.pt"
+                ]
+            },
+            {
+                "steps": 27399744,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-27399744.onnx",
+                "reward": 4625.599365234375,
+                "creation_time": 1714664654.92509,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-27399744.pt"
+                ]
+            },
+            {
+                "steps": 27499814,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-27499814.onnx",
+                "reward": null,
+                "creation_time": 1714664746.060617,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-27499814.pt"
+                ]
+            },
+            {
+                "steps": 27599749,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-27599749.onnx",
+                "reward": 5041.316497325897,
+                "creation_time": 1714664837.0195332,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-27599749.pt"
+                ]
+            },
+            {
+                "steps": 27699772,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-27699772.onnx",
+                "reward": 2066.6785786946616,
+                "creation_time": 1714664928.318002,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-27699772.pt"
+                ]
+            },
+            {
+                "steps": 27799994,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-27799994.onnx",
+                "reward": 1634.5807857513428,
+                "creation_time": 1714665019.656051,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-27799994.pt"
+                ]
+            },
+            {
+                "steps": 27899930,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-27899930.onnx",
+                "reward": 3206.197729110718,
+                "creation_time": 1714665111.1232672,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-27899930.pt"
+                ]
+            },
+            {
+                "steps": 27999738,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-27999738.onnx",
+                "reward": 1547.6993408203125,
+                "creation_time": 1714665202.333447,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-27999738.pt"
+                ]
+            },
+            {
+                "steps": 28099781,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-28099781.onnx",
+                "reward": 1180.046998500824,
+                "creation_time": 1714665293.184853,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-28099781.pt"
+                ]
+            },
+            {
+                "steps": 28199941,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-28199941.onnx",
+                "reward": 513.1374809741974,
+                "creation_time": 1714665386.201074,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-28199941.pt"
+                ]
+            },
+            {
+                "steps": 28299969,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-28299969.onnx",
+                "reward": 530.8860869407654,
+                "creation_time": 1714665478.700644,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-28299969.pt"
+                ]
+            },
+            {
+                "steps": 28399969,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-28399969.onnx",
+                "reward": 1105.0057470798492,
+                "creation_time": 1714665571.168774,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-28399969.pt"
+                ]
+            },
+            {
+                "steps": 28499827,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-28499827.onnx",
+                "reward": 2525.4304180145264,
+                "creation_time": 1714665665.2960682,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-28499827.pt"
+                ]
+            },
+            {
+                "steps": 28599927,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-28599927.onnx",
+                "reward": 994.7676826715469,
+                "creation_time": 1714665759.796788,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-28599927.pt"
+                ]
+            },
+            {
+                "steps": 28699841,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-28699841.onnx",
+                "reward": 1083.332642396291,
+                "creation_time": 1714665853.508419,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-28699841.pt"
+                ]
+            },
+            {
+                "steps": 28799887,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-28799887.onnx",
+                "reward": 2016.0231115818024,
+                "creation_time": 1714665948.4605582,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-28799887.pt"
+                ]
+            },
+            {
+                "steps": 28899784,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-28899784.onnx",
+                "reward": 2080.643783569336,
+                "creation_time": 1714666040.447731,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-28899784.pt"
+                ]
+            },
+            {
+                "steps": 28999834,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-28999834.onnx",
+                "reward": 868.1380681792895,
+                "creation_time": 1714666132.419293,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-28999834.pt"
+                ]
+            },
+            {
+                "steps": 29099981,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-29099981.onnx",
+                "reward": 1874.2303289175034,
+                "creation_time": 1714666224.346028,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-29099981.pt"
+                ]
+            },
+            {
+                "steps": 29199778,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-29199778.onnx",
+                "reward": 723.7311385472616,
+                "creation_time": 1714666315.561471,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-29199778.pt"
+                ]
+            },
+            {
+                "steps": 29299816,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-29299816.onnx",
+                "reward": 316.6478359103203,
+                "creation_time": 1714666407.561068,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-29299816.pt"
+                ]
+            },
+            {
+                "steps": 29399875,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-29399875.onnx",
+                "reward": 794.2223269144694,
+                "creation_time": 1714666499.946225,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-29399875.pt"
+                ]
+            },
+            {
+                "steps": 29499965,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-29499965.onnx",
+                "reward": null,
+                "creation_time": 1714666594.272078,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-29499965.pt"
+                ]
+            },
+            {
+                "steps": 29599788,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-29599788.onnx",
+                "reward": null,
+                "creation_time": 1714666685.603212,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-29599788.pt"
+                ]
+            },
+            {
+                "steps": 29699792,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-29699792.onnx",
+                "reward": null,
+                "creation_time": 1714666777.5154712,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-29699792.pt"
+                ]
+            },
+            {
+                "steps": 29799882,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-29799882.onnx",
+                "reward": null,
+                "creation_time": 1714666869.507346,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-29799882.pt"
+                ]
+            },
+            {
+                "steps": 29899877,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-29899877.onnx",
+                "reward": 1057.3094081878662,
+                "creation_time": 1714666960.999081,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-29899877.pt"
+                ]
+            },
+            {
+                "steps": 29999896,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-29999896.onnx",
+                "reward": null,
+                "creation_time": 1714667054.05165,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-29999896.pt"
+                ]
+            },
+            {
+                "steps": 30099945,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-30099945.onnx",
+                "reward": null,
+                "creation_time": 1714667145.482311,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-30099945.pt"
+                ]
+            },
+            {
+                "steps": 30199786,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-30199786.onnx",
+                "reward": null,
+                "creation_time": 1714667237.098057,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-30199786.pt"
+                ]
+            },
+            {
+                "steps": 30299774,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-30299774.onnx",
+                "reward": 501.65327072143555,
+                "creation_time": 1714667328.9342499,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-30299774.pt"
+                ]
+            },
+            {
+                "steps": 30399881,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-30399881.onnx",
+                "reward": 717.8774528503418,
+                "creation_time": 1714667420.543339,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-30399881.pt"
+                ]
+            },
+            {
+                "steps": 30499860,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-30499860.onnx",
+                "reward": 252.96961402893066,
+                "creation_time": 1714667512.859782,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-30499860.pt"
+                ]
+            },
+            {
+                "steps": 30599740,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-30599740.onnx",
+                "reward": null,
+                "creation_time": 1714667604.955145,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-30599740.pt"
+                ]
+            },
+            {
+                "steps": 30699981,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-30699981.onnx",
+                "reward": 800.8476556142172,
+                "creation_time": 1714667696.126766,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-30699981.pt"
+                ]
+            },
+            {
+                "steps": 30799830,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-30799830.onnx",
+                "reward": 348.4741153717041,
+                "creation_time": 1714667788.038823,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-30799830.pt"
+                ]
+            },
+            {
+                "steps": 30899875,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-30899875.onnx",
+                "reward": 506.6567316055298,
+                "creation_time": 1714667880.1509519,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-30899875.pt"
+                ]
+            },
+            {
+                "steps": 30999802,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-30999802.onnx",
+                "reward": 962.1494579315186,
+                "creation_time": 1714667972.2220118,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-30999802.pt"
+                ]
+            },
+            {
+                "steps": 31099877,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-31099877.onnx",
+                "reward": 1895.1251046657562,
+                "creation_time": 1714668063.2610922,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-31099877.pt"
+                ]
+            },
+            {
+                "steps": 31199990,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-31199990.onnx",
+                "reward": 1039.166114807129,
+                "creation_time": 1714668156.158823,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-31199990.pt"
+                ]
+            },
+            {
+                "steps": 31299770,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-31299770.onnx",
+                "reward": 608.108320236206,
+                "creation_time": 1714668247.7228851,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-31299770.pt"
+                ]
+            },
+            {
+                "steps": 31399964,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-31399964.onnx",
+                "reward": 1686.0945105552673,
+                "creation_time": 1714668339.93051,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-31399964.pt"
+                ]
+            },
+            {
+                "steps": 31499778,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-31499778.onnx",
+                "reward": 696.9936898549398,
+                "creation_time": 1714668431.304259,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-31499778.pt"
+                ]
+            },
+            {
+                "steps": 31599867,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-31599867.onnx",
+                "reward": 1017.2583012580872,
+                "creation_time": 1714668523.2575302,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-31599867.pt"
+                ]
+            },
+            {
+                "steps": 31699774,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-31699774.onnx",
+                "reward": 411.16281175613403,
+                "creation_time": 1714668614.751137,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-31699774.pt"
+                ]
+            },
+            {
+                "steps": 31799780,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-31799780.onnx",
+                "reward": 2747.6297936439514,
+                "creation_time": 1714668706.896499,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-31799780.pt"
+                ]
+            },
+            {
+                "steps": 31899902,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-31899902.onnx",
+                "reward": 571.9576843380928,
+                "creation_time": 1714668799.2968268,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-31899902.pt"
+                ]
+            },
+            {
+                "steps": 31999923,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-31999923.onnx",
+                "reward": 1014.1220258076986,
+                "creation_time": 1714668890.745186,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-31999923.pt"
+                ]
+            },
+            {
+                "steps": 32099848,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-32099848.onnx",
+                "reward": 405.73665046691895,
+                "creation_time": 1714668982.6675892,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-32099848.pt"
+                ]
+            },
+            {
+                "steps": 32199812,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-32199812.onnx",
+                "reward": 340.5999050140381,
+                "creation_time": 1714669074.333874,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-32199812.pt"
+                ]
+            },
+            {
+                "steps": 32299918,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-32299918.onnx",
+                "reward": 1260.2766134937604,
+                "creation_time": 1714669166.399755,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-32299918.pt"
+                ]
+            },
+            {
+                "steps": 32399891,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-32399891.onnx",
+                "reward": 524.2520758310953,
+                "creation_time": 1714669257.888387,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-32399891.pt"
+                ]
+            },
+            {
+                "steps": 32499843,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-32499843.onnx",
+                "reward": 996.4210739135742,
+                "creation_time": 1714669349.9212868,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-32499843.pt"
+                ]
+            },
+            {
+                "steps": 32599752,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-32599752.onnx",
+                "reward": 365.144696076711,
+                "creation_time": 1714669441.68081,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-32599752.pt"
+                ]
+            },
+            {
+                "steps": 32699959,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-32699959.onnx",
+                "reward": 652.0347909927368,
+                "creation_time": 1714669533.700704,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-32699959.pt"
+                ]
+            },
+            {
+                "steps": 32799846,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-32799846.onnx",
+                "reward": 953.7866134643555,
+                "creation_time": 1714669627.4914849,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-32799846.pt"
+                ]
+            },
+            {
+                "steps": 32899968,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-32899968.onnx",
+                "reward": 302.7176151275635,
+                "creation_time": 1714669719.320344,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-32899968.pt"
+                ]
+            },
+            {
+                "steps": 32999805,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-32999805.onnx",
+                "reward": 604.0828803181648,
+                "creation_time": 1714669812.474166,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-32999805.pt"
+                ]
+            },
+            {
+                "steps": 33099914,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-33099914.onnx",
+                "reward": 1940.0126824378967,
+                "creation_time": 1714669904.4776042,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-33099914.pt"
+                ]
+            },
+            {
+                "steps": 33199804,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-33199804.onnx",
+                "reward": 1205.5666910807292,
+                "creation_time": 1714669995.943917,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-33199804.pt"
+                ]
+            },
+            {
+                "steps": 33299972,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-33299972.onnx",
+                "reward": 363.12954449653625,
+                "creation_time": 1714670088.52593,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-33299972.pt"
+                ]
+            },
+            {
+                "steps": 33399855,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-33399855.onnx",
+                "reward": 2600.9518661499023,
+                "creation_time": 1714670180.117116,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-33399855.pt"
+                ]
+            },
+            {
+                "steps": 33499835,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-33499835.onnx",
+                "reward": 377.9593553543091,
+                "creation_time": 1714670272.752817,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-33499835.pt"
+                ]
+            },
+            {
+                "steps": 33599805,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-33599805.onnx",
+                "reward": 1391.6919326782227,
+                "creation_time": 1714670365.291255,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-33599805.pt"
+                ]
+            },
+            {
+                "steps": 33699856,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-33699856.onnx",
+                "reward": 859.8087005615234,
+                "creation_time": 1714670457.531059,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-33699856.pt"
+                ]
+            },
+            {
+                "steps": 33799959,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-33799959.onnx",
+                "reward": 461.3100435733795,
+                "creation_time": 1714670550.137289,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-33799959.pt"
+                ]
+            },
+            {
+                "steps": 33899833,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-33899833.onnx",
+                "reward": 340.900915145874,
+                "creation_time": 1714670642.212468,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-33899833.pt"
+                ]
+            },
+            {
+                "steps": 33999899,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-33999899.onnx",
+                "reward": 331.01868438720703,
+                "creation_time": 1714670734.1809568,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-33999899.pt"
+                ]
+            },
+            {
+                "steps": 34099921,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-34099921.onnx",
+                "reward": 275.37362543741864,
+                "creation_time": 1714670826.152979,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-34099921.pt"
+                ]
+            },
+            {
+                "steps": 34199807,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-34199807.onnx",
+                "reward": 701.2405029296875,
+                "creation_time": 1714670917.65961,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-34199807.pt"
+                ]
+            },
+            {
+                "steps": 34299893,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-34299893.onnx",
+                "reward": 1035.3107204437256,
+                "creation_time": 1714671010.418588,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-34299893.pt"
+                ]
+            },
+            {
+                "steps": 34399881,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-34399881.onnx",
+                "reward": null,
+                "creation_time": 1714671130.899033,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-34399881.pt"
+                ]
+            },
+            {
+                "steps": 34499996,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-34499996.onnx",
+                "reward": null,
+                "creation_time": 1714671250.3172522,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-34499996.pt"
+                ]
+            },
+            {
+                "steps": 34599956,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-34599956.onnx",
+                "reward": 1355.2510986328125,
+                "creation_time": 1714671369.468296,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-34599956.pt"
+                ]
+            },
+            {
+                "steps": 34699950,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-34699950.onnx",
+                "reward": 1119.2457427978516,
+                "creation_time": 1714671488.9401479,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-34699950.pt"
+                ]
+            },
+            {
+                "steps": 34799936,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-34799936.onnx",
+                "reward": 201.53033304214478,
+                "creation_time": 1714671610.826911,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-34799936.pt"
+                ]
+            },
+            {
+                "steps": 34899934,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-34899934.onnx",
+                "reward": 2325.675188064575,
+                "creation_time": 1714671732.9340239,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-34899934.pt"
+                ]
+            },
+            {
+                "steps": 34999738,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-34999738.onnx",
+                "reward": null,
+                "creation_time": 1714671853.5216682,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-34999738.pt"
+                ]
+            },
+            {
+                "steps": 35099806,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-35099806.onnx",
+                "reward": 29.273618698120117,
+                "creation_time": 1714671973.897851,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-35099806.pt"
+                ]
+            },
+            {
+                "steps": 35199743,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-35199743.onnx",
+                "reward": null,
+                "creation_time": 1714672098.053417,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-35199743.pt"
+                ]
+            },
+            {
+                "steps": 35299931,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-35299931.onnx",
+                "reward": 1157.3393459320068,
+                "creation_time": 1714672219.977946,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-35299931.pt"
+                ]
+            },
+            {
+                "steps": 35399977,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-35399977.onnx",
+                "reward": 2316.5200230280557,
+                "creation_time": 1714672347.511864,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-35399977.pt"
+                ]
+            },
+            {
+                "steps": 35499997,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-35499997.onnx",
+                "reward": 1517.2117862701416,
+                "creation_time": 1714672472.894316,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-35499997.pt"
+                ]
+            },
+            {
+                "steps": 35599817,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-35599817.onnx",
+                "reward": 2721.843850851059,
+                "creation_time": 1714672594.7855182,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-35599817.pt"
+                ]
+            },
+            {
+                "steps": 35699942,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-35699942.onnx",
+                "reward": null,
+                "creation_time": 1714672714.659382,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-35699942.pt"
+                ]
+            },
+            {
+                "steps": 35799840,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-35799840.onnx",
+                "reward": 261.10087871551514,
+                "creation_time": 1714672837.355566,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-35799840.pt"
+                ]
+            },
+            {
+                "steps": 35899987,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-35899987.onnx",
+                "reward": 338.86000061035156,
+                "creation_time": 1714672959.634426,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-35899987.pt"
+                ]
+            },
+            {
+                "steps": 35999994,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-35999994.onnx",
+                "reward": null,
+                "creation_time": 1714673078.53969,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-35999994.pt"
+                ]
+            },
+            {
+                "steps": 36099937,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-36099937.onnx",
+                "reward": 376.10955810546875,
+                "creation_time": 1714673199.8499022,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-36099937.pt"
+                ]
+            },
+            {
+                "steps": 36199906,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-36199906.onnx",
+                "reward": 380.33482360839844,
+                "creation_time": 1714673320.648038,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-36199906.pt"
+                ]
+            },
+            {
+                "steps": 36299867,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-36299867.onnx",
+                "reward": 650.9402758330107,
+                "creation_time": 1714673443.116019,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-36299867.pt"
+                ]
+            },
+            {
+                "steps": 36399843,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-36399843.onnx",
+                "reward": 358.8142309188843,
+                "creation_time": 1714673562.5707798,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-36399843.pt"
+                ]
+            },
+            {
+                "steps": 36499860,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-36499860.onnx",
+                "reward": 351.44387372334796,
+                "creation_time": 1714673684.1797838,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-36499860.pt"
+                ]
+            },
+            {
+                "steps": 36599761,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-36599761.onnx",
+                "reward": 1047.6348690986633,
+                "creation_time": 1714673802.70098,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-36599761.pt"
+                ]
+            },
+            {
+                "steps": 36699939,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-36699939.onnx",
+                "reward": 2264.774890899658,
+                "creation_time": 1714673924.9156108,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-36699939.pt"
+                ]
+            },
+            {
+                "steps": 36799846,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-36799846.onnx",
+                "reward": 385.2202612559001,
+                "creation_time": 1714674047.108949,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-36799846.pt"
+                ]
+            },
+            {
+                "steps": 36899765,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-36899765.onnx",
+                "reward": 783.3882737159729,
+                "creation_time": 1714674169.5191412,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-36899765.pt"
+                ]
+            },
+            {
+                "steps": 36999768,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-36999768.onnx",
+                "reward": 378.6824474334717,
+                "creation_time": 1714674290.802732,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-36999768.pt"
+                ]
+            },
+            {
+                "steps": 37099902,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-37099902.onnx",
+                "reward": 439.14864869912464,
+                "creation_time": 1714674411.268506,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-37099902.pt"
+                ]
+            },
+            {
+                "steps": 37199836,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-37199836.onnx",
+                "reward": 1499.704360961914,
+                "creation_time": 1714674531.642499,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-37199836.pt"
+                ]
+            },
+            {
+                "steps": 37299905,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-37299905.onnx",
+                "reward": 1084.5823287963867,
+                "creation_time": 1714674651.374173,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-37299905.pt"
+                ]
+            },
+            {
+                "steps": 37399819,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-37399819.onnx",
+                "reward": 622.6354141235352,
+                "creation_time": 1714674771.3126998,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-37399819.pt"
+                ]
+            },
+            {
+                "steps": 37499901,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-37499901.onnx",
+                "reward": 298.87605595588684,
+                "creation_time": 1714674891.837756,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-37499901.pt"
+                ]
+            },
+            {
+                "steps": 37599910,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-37599910.onnx",
+                "reward": 355.7101192474365,
+                "creation_time": 1714675011.312254,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-37599910.pt"
+                ]
+            },
+            {
+                "steps": 37699883,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-37699883.onnx",
+                "reward": 368.2374668121338,
+                "creation_time": 1714675134.906402,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-37699883.pt"
+                ]
+            },
+            {
+                "steps": 37799891,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-37799891.onnx",
+                "reward": 916.9533627033234,
+                "creation_time": 1714675258.979158,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-37799891.pt"
+                ]
+            },
+            {
+                "steps": 37899984,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-37899984.onnx",
+                "reward": 449.9243383407593,
+                "creation_time": 1714675381.063808,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-37899984.pt"
+                ]
+            },
+            {
+                "steps": 37999954,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-37999954.onnx",
+                "reward": 2719.940944671631,
+                "creation_time": 1714675504.131658,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-37999954.pt"
+                ]
+            },
+            {
+                "steps": 38099780,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-38099780.onnx",
+                "reward": 650.7130858103434,
+                "creation_time": 1714675625.044359,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-38099780.pt"
+                ]
+            },
+            {
+                "steps": 38199791,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-38199791.onnx",
+                "reward": null,
+                "creation_time": 1714675745.1341949,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-38199791.pt"
+                ]
+            },
+            {
+                "steps": 38299891,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-38299891.onnx",
+                "reward": 1483.278351465861,
+                "creation_time": 1714675865.0227158,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-38299891.pt"
+                ]
+            },
+            {
+                "steps": 38399960,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-38399960.onnx",
+                "reward": 1485.613052368164,
+                "creation_time": 1714675988.052174,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-38399960.pt"
+                ]
+            },
+            {
+                "steps": 38499856,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-38499856.onnx",
+                "reward": null,
+                "creation_time": 1714676109.400404,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-38499856.pt"
+                ]
+            },
+            {
+                "steps": 38599876,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-38599876.onnx",
+                "reward": 288.09630370140076,
+                "creation_time": 1714676228.359112,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-38599876.pt"
+                ]
+            },
+            {
+                "steps": 38699964,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-38699964.onnx",
+                "reward": 356.4874782562256,
+                "creation_time": 1714676351.008013,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-38699964.pt"
+                ]
+            },
+            {
+                "steps": 38799965,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-38799965.onnx",
+                "reward": 3039.046142578125,
+                "creation_time": 1714676468.540894,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-38799965.pt"
+                ]
+            },
+            {
+                "steps": 38899917,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-38899917.onnx",
+                "reward": 1720.541509628296,
+                "creation_time": 1714676588.900091,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-38899917.pt"
+                ]
+            },
+            {
+                "steps": 38999780,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-38999780.onnx",
+                "reward": null,
+                "creation_time": 1714676705.736267,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-38999780.pt"
+                ]
+            },
+            {
+                "steps": 39099916,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-39099916.onnx",
+                "reward": null,
+                "creation_time": 1714676823.773899,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-39099916.pt"
+                ]
+            },
+            {
+                "steps": 39199993,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-39199993.onnx",
+                "reward": 387.9860715866089,
+                "creation_time": 1714676939.9273431,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-39199993.pt"
+                ]
+            },
+            {
+                "steps": 39299796,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-39299796.onnx",
+                "reward": 1791.0033283233643,
+                "creation_time": 1714677057.045269,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-39299796.pt"
+                ]
+            },
+            {
+                "steps": 39399848,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-39399848.onnx",
+                "reward": 3705.174419403076,
+                "creation_time": 1714677174.044108,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-39399848.pt"
+                ]
+            },
+            {
+                "steps": 39499852,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-39499852.onnx",
+                "reward": null,
+                "creation_time": 1714677290.645202,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-39499852.pt"
+                ]
+            },
+            {
+                "steps": 39599871,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-39599871.onnx",
+                "reward": 383.60126066207886,
+                "creation_time": 1714677408.0349178,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-39599871.pt"
+                ]
+            },
+            {
+                "steps": 39699885,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-39699885.onnx",
+                "reward": 1089.5727020899456,
+                "creation_time": 1714677524.8345249,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-39699885.pt"
+                ]
+            },
+            {
+                "steps": 39799802,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-39799802.onnx",
+                "reward": 1024.5151100158691,
+                "creation_time": 1714677641.369548,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-39799802.pt"
+                ]
+            },
+            {
+                "steps": 39899938,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-39899938.onnx",
+                "reward": 618.0936260223389,
+                "creation_time": 1714677757.002153,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-39899938.pt"
+                ]
+            },
+            {
+                "steps": 39999894,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-39999894.onnx",
+                "reward": 349.43127155303955,
+                "creation_time": 1714677873.1418,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-39999894.pt"
+                ]
+            },
+            {
+                "steps": 40099806,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-40099806.onnx",
+                "reward": 3035.2039794921875,
+                "creation_time": 1714677989.320527,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-40099806.pt"
+                ]
+            },
+            {
+                "steps": 40199842,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-40199842.onnx",
+                "reward": null,
+                "creation_time": 1714678106.101142,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-40199842.pt"
+                ]
+            },
+            {
+                "steps": 40299946,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-40299946.onnx",
+                "reward": 1220.0336246490479,
+                "creation_time": 1714678222.4196951,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-40299946.pt"
+                ]
+            },
+            {
+                "steps": 40399767,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-40399767.onnx",
+                "reward": 1354.648609161377,
+                "creation_time": 1714678339.598825,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-40399767.pt"
+                ]
+            },
+            {
+                "steps": 40499952,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-40499952.onnx",
+                "reward": null,
+                "creation_time": 1714678456.5653179,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-40499952.pt"
+                ]
+            },
+            {
+                "steps": 40599802,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-40599802.onnx",
+                "reward": null,
+                "creation_time": 1714678572.680351,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-40599802.pt"
+                ]
+            },
+            {
+                "steps": 40699865,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-40699865.onnx",
+                "reward": 778.7931051254272,
+                "creation_time": 1714678688.88881,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-40699865.pt"
+                ]
+            },
+            {
+                "steps": 40799886,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-40799886.onnx",
+                "reward": null,
+                "creation_time": 1714678805.719483,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-40799886.pt"
+                ]
+            },
+            {
+                "steps": 40899966,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-40899966.onnx",
+                "reward": null,
+                "creation_time": 1714678920.5856051,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-40899966.pt"
+                ]
+            },
+            {
+                "steps": 40999757,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-40999757.onnx",
+                "reward": 3044.3006706237793,
+                "creation_time": 1714679036.271177,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-40999757.pt"
+                ]
+            },
+            {
+                "steps": 41099939,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-41099939.onnx",
+                "reward": 1695.70924949646,
+                "creation_time": 1714679152.830633,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-41099939.pt"
+                ]
+            },
+            {
+                "steps": 41199999,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-41199999.onnx",
+                "reward": 494.7597122192383,
+                "creation_time": 1714679268.903075,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-41199999.pt"
+                ]
+            },
+            {
+                "steps": 41299945,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-41299945.onnx",
+                "reward": null,
+                "creation_time": 1714679384.629269,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-41299945.pt"
+                ]
+            },
+            {
+                "steps": 41399987,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-41399987.onnx",
+                "reward": 991.0437459945679,
+                "creation_time": 1714679499.857703,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-41399987.pt"
+                ]
+            },
+            {
+                "steps": 41499768,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-41499768.onnx",
+                "reward": 3767.9561042785645,
+                "creation_time": 1714679616.404147,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-41499768.pt"
+                ]
+            },
+            {
+                "steps": 41599803,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-41599803.onnx",
+                "reward": 79.26124572753906,
+                "creation_time": 1714679733.175914,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-41599803.pt"
+                ]
+            },
+            {
+                "steps": 41699952,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-41699952.onnx",
+                "reward": 4111.716562271118,
+                "creation_time": 1714679850.644049,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-41699952.pt"
+                ]
+            },
+            {
+                "steps": 41799947,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-41799947.onnx",
+                "reward": null,
+                "creation_time": 1714679969.293447,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-41799947.pt"
+                ]
+            },
+            {
+                "steps": 41899772,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-41899772.onnx",
+                "reward": null,
+                "creation_time": 1714680086.4852438,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-41899772.pt"
+                ]
+            },
+            {
+                "steps": 41999996,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-41999996.onnx",
+                "reward": 1864.413324991862,
+                "creation_time": 1714680208.2646022,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-41999996.pt"
+                ]
+            },
+            {
+                "steps": 42099802,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-42099802.onnx",
+                "reward": 853.630241394043,
+                "creation_time": 1714680332.753115,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-42099802.pt"
+                ]
+            },
+            {
+                "steps": 42199840,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-42199840.onnx",
+                "reward": 2487.111405134201,
+                "creation_time": 1714680455.800833,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-42199840.pt"
+                ]
+            },
+            {
+                "steps": 42299869,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-42299869.onnx",
+                "reward": 2388.2616906166077,
+                "creation_time": 1714680574.478016,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-42299869.pt"
+                ]
+            },
+            {
+                "steps": 42399883,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-42399883.onnx",
+                "reward": 625.5917358398438,
+                "creation_time": 1714680688.3702111,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-42399883.pt"
+                ]
+            },
+            {
+                "steps": 42499828,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-42499828.onnx",
+                "reward": 3444.7235441207886,
+                "creation_time": 1714680783.639745,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-42499828.pt"
+                ]
+            },
+            {
+                "steps": 42599995,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-42599995.onnx",
+                "reward": 2394.6784132122993,
+                "creation_time": 1714680877.329746,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-42599995.pt"
+                ]
+            },
+            {
+                "steps": 42699801,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-42699801.onnx",
+                "reward": null,
+                "creation_time": 1714680970.5715148,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-42699801.pt"
+                ]
+            },
+            {
+                "steps": 42799845,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-42799845.onnx",
+                "reward": 2080.638440132141,
+                "creation_time": 1714681064.051735,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-42799845.pt"
+                ]
+            },
+            {
+                "steps": 42899910,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-42899910.onnx",
+                "reward": 342.10327339172363,
+                "creation_time": 1714681157.947455,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-42899910.pt"
+                ]
+            },
+            {
+                "steps": 42999864,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-42999864.onnx",
+                "reward": 4244.685779571533,
+                "creation_time": 1714681260.310463,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-42999864.pt"
+                ]
+            },
+            {
+                "steps": 43099783,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-43099783.onnx",
+                "reward": 2689.951726436615,
+                "creation_time": 1714681353.056288,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-43099783.pt"
+                ]
+            },
+            {
+                "steps": 43199827,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-43199827.onnx",
+                "reward": 1551.0584939956666,
+                "creation_time": 1714681446.717651,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-43199827.pt"
+                ]
+            },
+            {
+                "steps": 43299818,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-43299818.onnx",
+                "reward": 872.4749479293823,
+                "creation_time": 1714681538.991113,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-43299818.pt"
+                ]
+            },
+            {
+                "steps": 43399927,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-43399927.onnx",
+                "reward": null,
+                "creation_time": 1714681630.92913,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-43399927.pt"
+                ]
+            },
+            {
+                "steps": 43499841,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-43499841.onnx",
+                "reward": 4686.408645629883,
+                "creation_time": 1714681722.157407,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-43499841.pt"
+                ]
+            },
+            {
+                "steps": 43599787,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-43599787.onnx",
+                "reward": 1584.957815170288,
+                "creation_time": 1714681814.0787861,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-43599787.pt"
+                ]
+            },
+            {
+                "steps": 43699835,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-43699835.onnx",
+                "reward": 865.3871788978577,
+                "creation_time": 1714681909.974307,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-43699835.pt"
+                ]
+            },
+            {
+                "steps": 43799756,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-43799756.onnx",
+                "reward": 3842.8924899101257,
+                "creation_time": 1714682003.300289,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-43799756.pt"
+                ]
+            },
+            {
+                "steps": 43899893,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-43899893.onnx",
+                "reward": null,
+                "creation_time": 1714682097.947649,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-43899893.pt"
+                ]
+            },
+            {
+                "steps": 43999976,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-43999976.onnx",
+                "reward": null,
+                "creation_time": 1714682190.247097,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-43999976.pt"
+                ]
+            },
+            {
+                "steps": 44099953,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-44099953.onnx",
+                "reward": 3211.447918256124,
+                "creation_time": 1714682281.617706,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-44099953.pt"
+                ]
+            },
+            {
+                "steps": 44199898,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-44199898.onnx",
+                "reward": 1470.2396850585938,
+                "creation_time": 1714682376.291357,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-44199898.pt"
+                ]
+            },
+            {
+                "steps": 44299898,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-44299898.onnx",
+                "reward": 3195.2001934051514,
+                "creation_time": 1714682469.7733572,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-44299898.pt"
+                ]
+            },
+            {
+                "steps": 44399944,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-44399944.onnx",
+                "reward": 263.41972160339355,
+                "creation_time": 1714682563.658488,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-44399944.pt"
+                ]
+            },
+            {
+                "steps": 44499901,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-44499901.onnx",
+                "reward": 897.0720977783203,
+                "creation_time": 1714682657.092244,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-44499901.pt"
+                ]
+            },
+            {
+                "steps": 44599884,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-44599884.onnx",
+                "reward": null,
+                "creation_time": 1714682749.27758,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-44599884.pt"
+                ]
+            },
+            {
+                "steps": 44699999,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-44699999.onnx",
+                "reward": 361.089563369751,
+                "creation_time": 1714682840.4819698,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-44699999.pt"
+                ]
+            },
+            {
+                "steps": 44799844,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-44799844.onnx",
+                "reward": 3584.9247047901154,
+                "creation_time": 1714682932.015938,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-44799844.pt"
+                ]
+            },
+            {
+                "steps": 44899994,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-44899994.onnx",
+                "reward": 2924.5901346206665,
+                "creation_time": 1714683023.303183,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-44899994.pt"
+                ]
+            },
+            {
+                "steps": 44999821,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-44999821.onnx",
+                "reward": 4097.572275161743,
+                "creation_time": 1714683114.138706,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-44999821.pt"
+                ]
+            },
+            {
+                "steps": 45099938,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-45099938.onnx",
+                "reward": null,
+                "creation_time": 1714683207.4621508,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-45099938.pt"
+                ]
+            },
+            {
+                "steps": 45199855,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-45199855.onnx",
+                "reward": 2774.686019897461,
+                "creation_time": 1714683296.921057,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-45199855.pt"
+                ]
+            },
+            {
+                "steps": 45299981,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-45299981.onnx",
+                "reward": null,
+                "creation_time": 1714683390.040576,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-45299981.pt"
+                ]
+            },
+            {
+                "steps": 45399881,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-45399881.onnx",
+                "reward": null,
+                "creation_time": 1714683481.1720388,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-45399881.pt"
+                ]
+            },
+            {
+                "steps": 45499755,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-45499755.onnx",
+                "reward": null,
+                "creation_time": 1714683571.408175,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-45499755.pt"
+                ]
+            },
+            {
+                "steps": 45599892,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-45599892.onnx",
+                "reward": null,
+                "creation_time": 1714683663.431217,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-45599892.pt"
+                ]
+            },
+            {
+                "steps": 45699957,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-45699957.onnx",
+                "reward": null,
+                "creation_time": 1714683755.105778,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-45699957.pt"
+                ]
+            },
+            {
+                "steps": 45799951,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-45799951.onnx",
+                "reward": null,
+                "creation_time": 1714683846.5450618,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-45799951.pt"
+                ]
+            },
+            {
+                "steps": 45899839,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-45899839.onnx",
+                "reward": null,
+                "creation_time": 1714683937.360039,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-45899839.pt"
+                ]
+            },
+            {
+                "steps": 45999827,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-45999827.onnx",
+                "reward": null,
+                "creation_time": 1714684028.847174,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-45999827.pt"
+                ]
+            },
+            {
+                "steps": 46099943,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-46099943.onnx",
+                "reward": null,
+                "creation_time": 1714684119.818979,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-46099943.pt"
+                ]
+            },
+            {
+                "steps": 46199785,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-46199785.onnx",
+                "reward": null,
+                "creation_time": 1714684211.347811,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-46199785.pt"
+                ]
+            },
+            {
+                "steps": 46299986,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-46299986.onnx",
+                "reward": null,
+                "creation_time": 1714684302.02955,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-46299986.pt"
+                ]
+            },
+            {
+                "steps": 46399793,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-46399793.onnx",
+                "reward": null,
+                "creation_time": 1714684392.8962529,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-46399793.pt"
+                ]
+            },
+            {
+                "steps": 46499786,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-46499786.onnx",
+                "reward": null,
+                "creation_time": 1714684483.699177,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-46499786.pt"
+                ]
+            },
+            {
+                "steps": 46599946,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-46599946.onnx",
+                "reward": 2855.2034339904785,
+                "creation_time": 1714684574.680109,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-46599946.pt"
+                ]
+            },
+            {
+                "steps": 46699800,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-46699800.onnx",
+                "reward": null,
+                "creation_time": 1714684666.080585,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-46699800.pt"
+                ]
+            },
+            {
+                "steps": 46799773,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-46799773.onnx",
+                "reward": null,
+                "creation_time": 1714684756.696098,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-46799773.pt"
+                ]
+            },
+            {
+                "steps": 46899837,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-46899837.onnx",
+                "reward": null,
+                "creation_time": 1714684847.881203,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-46899837.pt"
+                ]
+            },
+            {
+                "steps": 46999988,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-46999988.onnx",
+                "reward": 306.2107181549072,
+                "creation_time": 1714684939.338521,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-46999988.pt"
+                ]
+            },
+            {
+                "steps": 47099908,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-47099908.onnx",
+                "reward": 338.58040618896484,
+                "creation_time": 1714685030.16429,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-47099908.pt"
+                ]
+            },
+            {
+                "steps": 47199917,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-47199917.onnx",
+                "reward": null,
+                "creation_time": 1714685121.46456,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-47199917.pt"
+                ]
+            },
+            {
+                "steps": 47299995,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-47299995.onnx",
+                "reward": 2804.6883754730225,
+                "creation_time": 1714685212.2801,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-47299995.pt"
+                ]
+            },
+            {
+                "steps": 47399822,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-47399822.onnx",
+                "reward": null,
+                "creation_time": 1714685303.373964,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-47399822.pt"
+                ]
+            },
+            {
+                "steps": 47499971,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-47499971.onnx",
+                "reward": 5043.440994262695,
+                "creation_time": 1714685394.71775,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-47499971.pt"
+                ]
+            },
+            {
+                "steps": 47599893,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-47599893.onnx",
+                "reward": 3303.567195892334,
+                "creation_time": 1714685485.615196,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-47599893.pt"
+                ]
+            },
+            {
+                "steps": 47699973,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-47699973.onnx",
+                "reward": 2692.1382427215576,
+                "creation_time": 1714685576.776267,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-47699973.pt"
+                ]
+            },
+            {
+                "steps": 47799822,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-47799822.onnx",
+                "reward": null,
+                "creation_time": 1714685667.555687,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-47799822.pt"
+                ]
+            },
+            {
+                "steps": 47899863,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-47899863.onnx",
+                "reward": 316.23602390289307,
+                "creation_time": 1714685759.8872252,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-47899863.pt"
+                ]
+            },
+            {
+                "steps": 47999949,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-47999949.onnx",
+                "reward": null,
+                "creation_time": 1714685852.1662998,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-47999949.pt"
+                ]
+            },
+            {
+                "steps": 48099906,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-48099906.onnx",
+                "reward": 5103.676543653011,
+                "creation_time": 1714685944.7318761,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-48099906.pt"
+                ]
+            },
+            {
+                "steps": 48199956,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-48199956.onnx",
+                "reward": 4316.428097089131,
+                "creation_time": 1714686038.310965,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-48199956.pt"
+                ]
+            },
+            {
+                "steps": 48299982,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-48299982.onnx",
+                "reward": null,
+                "creation_time": 1714686131.2517319,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-48299982.pt"
+                ]
+            },
+            {
+                "steps": 48399923,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-48399923.onnx",
+                "reward": 331.6720085144043,
+                "creation_time": 1714686224.4557471,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-48399923.pt"
+                ]
+            },
+            {
+                "steps": 48499786,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-48499786.onnx",
+                "reward": null,
+                "creation_time": 1714686317.390524,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-48499786.pt"
+                ]
+            },
+            {
+                "steps": 48599933,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-48599933.onnx",
+                "reward": 2483.936085065206,
+                "creation_time": 1714686408.808154,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-48599933.pt"
+                ]
+            },
+            {
+                "steps": 48699922,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-48699922.onnx",
+                "reward": 2728.6766691207886,
+                "creation_time": 1714686499.866909,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-48699922.pt"
+                ]
+            },
+            {
+                "steps": 48799828,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-48799828.onnx",
+                "reward": 2721.303593635559,
+                "creation_time": 1714686590.85449,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-48799828.pt"
+                ]
+            },
+            {
+                "steps": 48899955,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-48899955.onnx",
+                "reward": 3071.0191802978516,
+                "creation_time": 1714686681.573749,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-48899955.pt"
+                ]
+            },
+            {
+                "steps": 48999953,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-48999953.onnx",
+                "reward": 3236.1193302869797,
+                "creation_time": 1714686773.1882958,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-48999953.pt"
+                ]
+            },
+            {
+                "steps": 49099760,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-49099760.onnx",
+                "reward": 1879.194911956787,
+                "creation_time": 1714686864.014847,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-49099760.pt"
+                ]
+            },
+            {
+                "steps": 49199924,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-49199924.onnx",
+                "reward": 1326.159589767456,
+                "creation_time": 1714686955.075051,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-49199924.pt"
+                ]
+            },
+            {
+                "steps": 49299947,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-49299947.onnx",
+                "reward": 5139.3480224609375,
+                "creation_time": 1714687045.838507,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-49299947.pt"
+                ]
+            },
+            {
+                "steps": 49399755,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-49399755.onnx",
+                "reward": 4249.88449605306,
+                "creation_time": 1714687135.613261,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-49399755.pt"
+                ]
+            },
+            {
+                "steps": 49499985,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-49499985.onnx",
+                "reward": null,
+                "creation_time": 1714687228.643837,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-49499985.pt"
+                ]
+            },
+            {
+                "steps": 49599910,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-49599910.onnx",
+                "reward": null,
+                "creation_time": 1714687321.3293371,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-49599910.pt"
+                ]
+            },
+            {
+                "steps": 49699876,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-49699876.onnx",
+                "reward": null,
+                "creation_time": 1714687417.304211,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-49699876.pt"
+                ]
+            },
+            {
+                "steps": 49799976,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-49799976.onnx",
+                "reward": null,
+                "creation_time": 1714687512.831657,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-49799976.pt"
+                ]
+            },
+            {
+                "steps": 49899844,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-49899844.onnx",
+                "reward": 293.98044776916504,
+                "creation_time": 1714687605.941807,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-49899844.pt"
+                ]
+            },
+            {
+                "steps": 49999823,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-49999823.onnx",
+                "reward": 5102.807525634766,
+                "creation_time": 1714687699.31445,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-49999823.pt"
+                ]
+            },
+            {
+                "steps": 50000087,
+                "file_path": "results/test10Par/CarBehavior/CarBehavior-50000087.onnx",
+                "reward": 5102.807525634766,
+                "creation_time": 1714687699.369187,
+                "auxillary_file_paths": [
+                    "results/test10Par/CarBehavior/CarBehavior-50000087.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 50000087,
+            "file_path": "results/test10Par/CarBehavior.onnx",
+            "reward": 5102.807525634766,
+            "creation_time": 1714687699.369187,
+            "auxillary_file_paths": [
+                "results/test10Par/CarBehavior/CarBehavior-50000087.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.0.0",
+        "torch_version": "2.1.1"
+    }
+}

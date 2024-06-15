@@ -1,0 +1,4529 @@
+{
+    "CarBehavior": {
+        "checkpoints": [
+            {
+                "steps": 99892,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-99892.onnx",
+                "reward": null,
+                "creation_time": 1714078136.981013,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-99892.pt"
+                ]
+            },
+            {
+                "steps": 199824,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-199824.onnx",
+                "reward": -50.0,
+                "creation_time": 1714078274.46166,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-199824.pt"
+                ]
+            },
+            {
+                "steps": 299996,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-299996.onnx",
+                "reward": -50.0,
+                "creation_time": 1714078411.865824,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-299996.pt"
+                ]
+            },
+            {
+                "steps": 399886,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-399886.onnx",
+                "reward": -50.0,
+                "creation_time": 1714078550.947208,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-399886.pt"
+                ]
+            },
+            {
+                "steps": 499887,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-499887.onnx",
+                "reward": -50.0,
+                "creation_time": 1714078686.9909708,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-499887.pt"
+                ]
+            },
+            {
+                "steps": 599792,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-599792.onnx",
+                "reward": -50.0,
+                "creation_time": 1714078822.2410839,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-599792.pt"
+                ]
+            },
+            {
+                "steps": 699905,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-699905.onnx",
+                "reward": -50.0,
+                "creation_time": 1714078957.45771,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-699905.pt"
+                ]
+            },
+            {
+                "steps": 799984,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-799984.onnx",
+                "reward": -50.0,
+                "creation_time": 1714079085.477727,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-799984.pt"
+                ]
+            },
+            {
+                "steps": 899739,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-899739.onnx",
+                "reward": -50.0,
+                "creation_time": 1714079211.1989079,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-899739.pt"
+                ]
+            },
+            {
+                "steps": 999818,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-999818.onnx",
+                "reward": -6.0,
+                "creation_time": 1714079338.843581,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-999818.pt"
+                ]
+            },
+            {
+                "steps": 1099941,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-1099941.onnx",
+                "reward": null,
+                "creation_time": 1714079464.5071292,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-1099941.pt"
+                ]
+            },
+            {
+                "steps": 1199945,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-1199945.onnx",
+                "reward": -50.0,
+                "creation_time": 1714079589.4722571,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-1199945.pt"
+                ]
+            },
+            {
+                "steps": 1299748,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-1299748.onnx",
+                "reward": 15.882284164428711,
+                "creation_time": 1714079720.728097,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-1299748.pt"
+                ]
+            },
+            {
+                "steps": 1399918,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-1399918.onnx",
+                "reward": -50.0,
+                "creation_time": 1714079855.3762822,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-1399918.pt"
+                ]
+            },
+            {
+                "steps": 1499754,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-1499754.onnx",
+                "reward": 24.452954292297363,
+                "creation_time": 1714079979.302073,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-1499754.pt"
+                ]
+            },
+            {
+                "steps": 1599862,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-1599862.onnx",
+                "reward": 122.51871585845947,
+                "creation_time": 1714080104.2098172,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-1599862.pt"
+                ]
+            },
+            {
+                "steps": 1699832,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-1699832.onnx",
+                "reward": 90.09950569697789,
+                "creation_time": 1714080229.430959,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-1699832.pt"
+                ]
+            },
+            {
+                "steps": 1799785,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-1799785.onnx",
+                "reward": 100.18354797363281,
+                "creation_time": 1714080354.802484,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-1799785.pt"
+                ]
+            },
+            {
+                "steps": 1899987,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-1899987.onnx",
+                "reward": 106.45971993037632,
+                "creation_time": 1714080482.269691,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-1899987.pt"
+                ]
+            },
+            {
+                "steps": 1999821,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-1999821.onnx",
+                "reward": 128.04082238674164,
+                "creation_time": 1714080609.543133,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-1999821.pt"
+                ]
+            },
+            {
+                "steps": 2099869,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-2099869.onnx",
+                "reward": 171.35099029541016,
+                "creation_time": 1714080736.7325451,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-2099869.pt"
+                ]
+            },
+            {
+                "steps": 2199972,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-2199972.onnx",
+                "reward": 140.72284293174744,
+                "creation_time": 1714080859.078805,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-2199972.pt"
+                ]
+            },
+            {
+                "steps": 2299768,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-2299768.onnx",
+                "reward": 167.28167597452799,
+                "creation_time": 1714080985.002342,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-2299768.pt"
+                ]
+            },
+            {
+                "steps": 2399915,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-2399915.onnx",
+                "reward": null,
+                "creation_time": 1714081112.97713,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-2399915.pt"
+                ]
+            },
+            {
+                "steps": 2499944,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-2499944.onnx",
+                "reward": -12.0,
+                "creation_time": 1714081238.320894,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-2499944.pt"
+                ]
+            },
+            {
+                "steps": 2599889,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-2599889.onnx",
+                "reward": null,
+                "creation_time": 1714081366.8455648,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-2599889.pt"
+                ]
+            },
+            {
+                "steps": 2699967,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-2699967.onnx",
+                "reward": null,
+                "creation_time": 1714081491.9023209,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-2699967.pt"
+                ]
+            },
+            {
+                "steps": 2799754,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-2799754.onnx",
+                "reward": null,
+                "creation_time": 1714081613.565192,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-2799754.pt"
+                ]
+            },
+            {
+                "steps": 2899964,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-2899964.onnx",
+                "reward": 263.2355422973633,
+                "creation_time": 1714081714.712466,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-2899964.pt"
+                ]
+            },
+            {
+                "steps": 2999828,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-2999828.onnx",
+                "reward": 62.93939208984375,
+                "creation_time": 1714081813.696649,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-2999828.pt"
+                ]
+            },
+            {
+                "steps": 3099852,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-3099852.onnx",
+                "reward": null,
+                "creation_time": 1714081911.977977,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-3099852.pt"
+                ]
+            },
+            {
+                "steps": 3199826,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-3199826.onnx",
+                "reward": 294.128342628479,
+                "creation_time": 1714082008.6834502,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-3199826.pt"
+                ]
+            },
+            {
+                "steps": 3299874,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-3299874.onnx",
+                "reward": 71.35452384948731,
+                "creation_time": 1714082105.876669,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-3299874.pt"
+                ]
+            },
+            {
+                "steps": 3399810,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-3399810.onnx",
+                "reward": null,
+                "creation_time": 1714082203.9965281,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-3399810.pt"
+                ]
+            },
+            {
+                "steps": 3499941,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-3499941.onnx",
+                "reward": 68.38716888427734,
+                "creation_time": 1714082302.786122,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-3499941.pt"
+                ]
+            },
+            {
+                "steps": 3599980,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-3599980.onnx",
+                "reward": 259.50230598449707,
+                "creation_time": 1714082401.0140328,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-3599980.pt"
+                ]
+            },
+            {
+                "steps": 3699746,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-3699746.onnx",
+                "reward": 192.53557014465332,
+                "creation_time": 1714082500.2718132,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-3699746.pt"
+                ]
+            },
+            {
+                "steps": 3799866,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-3799866.onnx",
+                "reward": 292.2643213272095,
+                "creation_time": 1714082640.2528498,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-3799866.pt"
+                ]
+            },
+            {
+                "steps": 3899747,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-3899747.onnx",
+                "reward": 453.735071182251,
+                "creation_time": 1714082740.222132,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-3899747.pt"
+                ]
+            },
+            {
+                "steps": 3999763,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-3999763.onnx",
+                "reward": 158.78650530179343,
+                "creation_time": 1714082838.964509,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-3999763.pt"
+                ]
+            },
+            {
+                "steps": 4099841,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-4099841.onnx",
+                "reward": 453.2197254896164,
+                "creation_time": 1714082939.177037,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-4099841.pt"
+                ]
+            },
+            {
+                "steps": 4199776,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-4199776.onnx",
+                "reward": 410.9270486831665,
+                "creation_time": 1714083037.409235,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-4199776.pt"
+                ]
+            },
+            {
+                "steps": 4299781,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-4299781.onnx",
+                "reward": 367.7634444832802,
+                "creation_time": 1714083139.057184,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-4299781.pt"
+                ]
+            },
+            {
+                "steps": 4399755,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-4399755.onnx",
+                "reward": 221.4458414554596,
+                "creation_time": 1714083244.0467079,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-4399755.pt"
+                ]
+            },
+            {
+                "steps": 4499869,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-4499869.onnx",
+                "reward": null,
+                "creation_time": 1714083350.1575701,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-4499869.pt"
+                ]
+            },
+            {
+                "steps": 4599828,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-4599828.onnx",
+                "reward": null,
+                "creation_time": 1714083450.044082,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-4599828.pt"
+                ]
+            },
+            {
+                "steps": 4699820,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-4699820.onnx",
+                "reward": 290.02071380615234,
+                "creation_time": 1714083548.454589,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-4699820.pt"
+                ]
+            },
+            {
+                "steps": 4799811,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-4799811.onnx",
+                "reward": null,
+                "creation_time": 1714083646.358557,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-4799811.pt"
+                ]
+            },
+            {
+                "steps": 4899894,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-4899894.onnx",
+                "reward": null,
+                "creation_time": 1714083744.694558,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-4899894.pt"
+                ]
+            },
+            {
+                "steps": 4999792,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-4999792.onnx",
+                "reward": null,
+                "creation_time": 1714083843.6320379,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-4999792.pt"
+                ]
+            },
+            {
+                "steps": 5099994,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-5099994.onnx",
+                "reward": 80.88358306884766,
+                "creation_time": 1714083941.6235662,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-5099994.pt"
+                ]
+            },
+            {
+                "steps": 5199929,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-5199929.onnx",
+                "reward": 535.7836971282959,
+                "creation_time": 1714084039.518174,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-5199929.pt"
+                ]
+            },
+            {
+                "steps": 5299987,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-5299987.onnx",
+                "reward": 235.07233428955078,
+                "creation_time": 1714084138.114731,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-5299987.pt"
+                ]
+            },
+            {
+                "steps": 5399804,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-5399804.onnx",
+                "reward": null,
+                "creation_time": 1714084236.158381,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-5399804.pt"
+                ]
+            },
+            {
+                "steps": 5499755,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-5499755.onnx",
+                "reward": 226.7274719874064,
+                "creation_time": 1714084333.99193,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-5499755.pt"
+                ]
+            },
+            {
+                "steps": 5599932,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-5599932.onnx",
+                "reward": 205.30825281143188,
+                "creation_time": 1714084433.076828,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-5599932.pt"
+                ]
+            },
+            {
+                "steps": 5699832,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-5699832.onnx",
+                "reward": 270.61873173713684,
+                "creation_time": 1714084532.38231,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-5699832.pt"
+                ]
+            },
+            {
+                "steps": 5799957,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-5799957.onnx",
+                "reward": 632.6725476582845,
+                "creation_time": 1714084631.669781,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-5799957.pt"
+                ]
+            },
+            {
+                "steps": 5899987,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-5899987.onnx",
+                "reward": 266.1299285888672,
+                "creation_time": 1714084730.07253,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-5899987.pt"
+                ]
+            },
+            {
+                "steps": 5999756,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-5999756.onnx",
+                "reward": 282.69964504241943,
+                "creation_time": 1714084826.748825,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-5999756.pt"
+                ]
+            },
+            {
+                "steps": 6099880,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-6099880.onnx",
+                "reward": 353.7060474395752,
+                "creation_time": 1714084925.275872,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-6099880.pt"
+                ]
+            },
+            {
+                "steps": 6199916,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-6199916.onnx",
+                "reward": 541.1636600494385,
+                "creation_time": 1714085022.447381,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-6199916.pt"
+                ]
+            },
+            {
+                "steps": 6299970,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-6299970.onnx",
+                "reward": 344.70197677612305,
+                "creation_time": 1714085120.66157,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-6299970.pt"
+                ]
+            },
+            {
+                "steps": 6399807,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-6399807.onnx",
+                "reward": 527.2928237915039,
+                "creation_time": 1714085218.332632,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-6399807.pt"
+                ]
+            },
+            {
+                "steps": 6499963,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-6499963.onnx",
+                "reward": 529.4347431182862,
+                "creation_time": 1714085315.657741,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-6499963.pt"
+                ]
+            },
+            {
+                "steps": 6599994,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-6599994.onnx",
+                "reward": 324.5236015319824,
+                "creation_time": 1714085413.3103402,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-6599994.pt"
+                ]
+            },
+            {
+                "steps": 6699986,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-6699986.onnx",
+                "reward": 378.8060480753581,
+                "creation_time": 1714085511.894563,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-6699986.pt"
+                ]
+            },
+            {
+                "steps": 6799949,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-6799949.onnx",
+                "reward": 495.76939392089844,
+                "creation_time": 1714085610.18742,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-6799949.pt"
+                ]
+            },
+            {
+                "steps": 6899939,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-6899939.onnx",
+                "reward": null,
+                "creation_time": 1714085708.793922,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-6899939.pt"
+                ]
+            },
+            {
+                "steps": 6999925,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-6999925.onnx",
+                "reward": 456.04120445251465,
+                "creation_time": 1714085806.971327,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-6999925.pt"
+                ]
+            },
+            {
+                "steps": 7099763,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-7099763.onnx",
+                "reward": 280.36561584472656,
+                "creation_time": 1714085905.412655,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-7099763.pt"
+                ]
+            },
+            {
+                "steps": 7199957,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-7199957.onnx",
+                "reward": 607.4598592122396,
+                "creation_time": 1714086003.3459241,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-7199957.pt"
+                ]
+            },
+            {
+                "steps": 7299967,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-7299967.onnx",
+                "reward": 172.45178318023682,
+                "creation_time": 1714086101.47013,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-7299967.pt"
+                ]
+            },
+            {
+                "steps": 7399773,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-7399773.onnx",
+                "reward": null,
+                "creation_time": 1714086200.1493142,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-7399773.pt"
+                ]
+            },
+            {
+                "steps": 7499957,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-7499957.onnx",
+                "reward": 144.23467302322388,
+                "creation_time": 1714086297.987521,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-7499957.pt"
+                ]
+            },
+            {
+                "steps": 7599973,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-7599973.onnx",
+                "reward": 346.9279047648112,
+                "creation_time": 1714086396.094866,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-7599973.pt"
+                ]
+            },
+            {
+                "steps": 7699823,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-7699823.onnx",
+                "reward": 348.4879608154297,
+                "creation_time": 1714086493.304833,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-7699823.pt"
+                ]
+            },
+            {
+                "steps": 7799896,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-7799896.onnx",
+                "reward": 301.75993156433105,
+                "creation_time": 1714086591.2714539,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-7799896.pt"
+                ]
+            },
+            {
+                "steps": 7899885,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-7899885.onnx",
+                "reward": 310.72920354207355,
+                "creation_time": 1714086689.042669,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-7899885.pt"
+                ]
+            },
+            {
+                "steps": 7999845,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-7999845.onnx",
+                "reward": 31.725855112075806,
+                "creation_time": 1714086787.5889332,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-7999845.pt"
+                ]
+            },
+            {
+                "steps": 8099907,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-8099907.onnx",
+                "reward": 324.50468254089355,
+                "creation_time": 1714086885.529352,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-8099907.pt"
+                ]
+            },
+            {
+                "steps": 8199906,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-8199906.onnx",
+                "reward": null,
+                "creation_time": 1714086984.032581,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-8199906.pt"
+                ]
+            },
+            {
+                "steps": 8299909,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-8299909.onnx",
+                "reward": 417.05903244018555,
+                "creation_time": 1714087082.014909,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-8299909.pt"
+                ]
+            },
+            {
+                "steps": 8399894,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-8399894.onnx",
+                "reward": 556.3935737907887,
+                "creation_time": 1714087180.048361,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-8399894.pt"
+                ]
+            },
+            {
+                "steps": 8499822,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-8499822.onnx",
+                "reward": 432.2021958231926,
+                "creation_time": 1714087277.56442,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-8499822.pt"
+                ]
+            },
+            {
+                "steps": 8599810,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-8599810.onnx",
+                "reward": 165.05528704325357,
+                "creation_time": 1714087375.547051,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-8599810.pt"
+                ]
+            },
+            {
+                "steps": 8699935,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-8699935.onnx",
+                "reward": 166.97461364269256,
+                "creation_time": 1714087473.819212,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-8699935.pt"
+                ]
+            },
+            {
+                "steps": 8799821,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-8799821.onnx",
+                "reward": 321.2780909836292,
+                "creation_time": 1714087571.396673,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-8799821.pt"
+                ]
+            },
+            {
+                "steps": 8899759,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-8899759.onnx",
+                "reward": 50.493003845214844,
+                "creation_time": 1714087669.3726132,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-8899759.pt"
+                ]
+            },
+            {
+                "steps": 8999818,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-8999818.onnx",
+                "reward": 62.01692008972168,
+                "creation_time": 1714087767.524585,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-8999818.pt"
+                ]
+            },
+            {
+                "steps": 9099991,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-9099991.onnx",
+                "reward": 218.5970369974772,
+                "creation_time": 1714087865.996292,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-9099991.pt"
+                ]
+            },
+            {
+                "steps": 9199886,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-9199886.onnx",
+                "reward": 634.8153781890869,
+                "creation_time": 1714087964.619466,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-9199886.pt"
+                ]
+            },
+            {
+                "steps": 9299862,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-9299862.onnx",
+                "reward": 358.15202776590985,
+                "creation_time": 1714088061.2757728,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-9299862.pt"
+                ]
+            },
+            {
+                "steps": 9399751,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-9399751.onnx",
+                "reward": 187.68794746398925,
+                "creation_time": 1714088159.5552099,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-9399751.pt"
+                ]
+            },
+            {
+                "steps": 9499979,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-9499979.onnx",
+                "reward": 623.9498481750488,
+                "creation_time": 1714088257.821003,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-9499979.pt"
+                ]
+            },
+            {
+                "steps": 9599870,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-9599870.onnx",
+                "reward": 234.57983428239822,
+                "creation_time": 1714088356.2706308,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-9599870.pt"
+                ]
+            },
+            {
+                "steps": 9699785,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-9699785.onnx",
+                "reward": 403.27923011779785,
+                "creation_time": 1714088454.6101692,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-9699785.pt"
+                ]
+            },
+            {
+                "steps": 9799769,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-9799769.onnx",
+                "reward": 338.8498428662618,
+                "creation_time": 1714088552.5946271,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-9799769.pt"
+                ]
+            },
+            {
+                "steps": 9899849,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-9899849.onnx",
+                "reward": 228.3773261478969,
+                "creation_time": 1714088650.270825,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-9899849.pt"
+                ]
+            },
+            {
+                "steps": 9999971,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-9999971.onnx",
+                "reward": null,
+                "creation_time": 1714088752.055244,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-9999971.pt"
+                ]
+            },
+            {
+                "steps": 10099994,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-10099994.onnx",
+                "reward": 351.1990307399205,
+                "creation_time": 1714088847.539094,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-10099994.pt"
+                ]
+            },
+            {
+                "steps": 10199743,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-10199743.onnx",
+                "reward": 321.96838150024416,
+                "creation_time": 1714088945.645798,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-10199743.pt"
+                ]
+            },
+            {
+                "steps": 10299842,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-10299842.onnx",
+                "reward": 240.75820808410646,
+                "creation_time": 1714089043.620817,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-10299842.pt"
+                ]
+            },
+            {
+                "steps": 10399877,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-10399877.onnx",
+                "reward": null,
+                "creation_time": 1714089143.7904809,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-10399877.pt"
+                ]
+            },
+            {
+                "steps": 10499838,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-10499838.onnx",
+                "reward": null,
+                "creation_time": 1714089241.544759,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-10499838.pt"
+                ]
+            },
+            {
+                "steps": 10599745,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-10599745.onnx",
+                "reward": null,
+                "creation_time": 1714089339.6204429,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-10599745.pt"
+                ]
+            },
+            {
+                "steps": 10699869,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-10699869.onnx",
+                "reward": 67.51972961425781,
+                "creation_time": 1714089439.037083,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-10699869.pt"
+                ]
+            },
+            {
+                "steps": 10799897,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-10799897.onnx",
+                "reward": 69.05732917785645,
+                "creation_time": 1714089537.212688,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-10799897.pt"
+                ]
+            },
+            {
+                "steps": 10899797,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-10899797.onnx",
+                "reward": 221.8593635559082,
+                "creation_time": 1714089634.809927,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-10899797.pt"
+                ]
+            },
+            {
+                "steps": 10999972,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-10999972.onnx",
+                "reward": 331.5906009674072,
+                "creation_time": 1714089732.827296,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-10999972.pt"
+                ]
+            },
+            {
+                "steps": 11099803,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-11099803.onnx",
+                "reward": 300.93478202819824,
+                "creation_time": 1714089831.427615,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-11099803.pt"
+                ]
+            },
+            {
+                "steps": 11199913,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-11199913.onnx",
+                "reward": 281.5898211797078,
+                "creation_time": 1714089930.046853,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-11199913.pt"
+                ]
+            },
+            {
+                "steps": 11299835,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-11299835.onnx",
+                "reward": 270.48778533935547,
+                "creation_time": 1714090028.397516,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-11299835.pt"
+                ]
+            },
+            {
+                "steps": 11399987,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-11399987.onnx",
+                "reward": 286.55711046854657,
+                "creation_time": 1714090126.471679,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-11399987.pt"
+                ]
+            },
+            {
+                "steps": 11499966,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-11499966.onnx",
+                "reward": 712.7624893188477,
+                "creation_time": 1714090225.2242718,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-11499966.pt"
+                ]
+            },
+            {
+                "steps": 11599757,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-11599757.onnx",
+                "reward": 67.775390625,
+                "creation_time": 1714090323.452381,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-11599757.pt"
+                ]
+            },
+            {
+                "steps": 11699893,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-11699893.onnx",
+                "reward": 359.5721499125163,
+                "creation_time": 1714090422.166166,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-11699893.pt"
+                ]
+            },
+            {
+                "steps": 11799915,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-11799915.onnx",
+                "reward": 354.3607390721639,
+                "creation_time": 1714090521.087445,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-11799915.pt"
+                ]
+            },
+            {
+                "steps": 11899857,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-11899857.onnx",
+                "reward": 340.6896286010742,
+                "creation_time": 1714090619.423564,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-11899857.pt"
+                ]
+            },
+            {
+                "steps": 11999869,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-11999869.onnx",
+                "reward": 278.8760573069255,
+                "creation_time": 1714090717.3394618,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-11999869.pt"
+                ]
+            },
+            {
+                "steps": 12099801,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-12099801.onnx",
+                "reward": 306.2599247296651,
+                "creation_time": 1714090815.329962,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-12099801.pt"
+                ]
+            },
+            {
+                "steps": 12199797,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-12199797.onnx",
+                "reward": 359.739914894104,
+                "creation_time": 1714090913.2847419,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-12199797.pt"
+                ]
+            },
+            {
+                "steps": 12299831,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-12299831.onnx",
+                "reward": 431.215482711792,
+                "creation_time": 1714091011.716786,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-12299831.pt"
+                ]
+            },
+            {
+                "steps": 12399802,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-12399802.onnx",
+                "reward": 360.42001819610596,
+                "creation_time": 1714091109.952608,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-12399802.pt"
+                ]
+            },
+            {
+                "steps": 12499896,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-12499896.onnx",
+                "reward": 533.6540733973185,
+                "creation_time": 1714091208.0216498,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-12499896.pt"
+                ]
+            },
+            {
+                "steps": 12599937,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-12599937.onnx",
+                "reward": 436.98352432250977,
+                "creation_time": 1714091307.249221,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-12599937.pt"
+                ]
+            },
+            {
+                "steps": 12699946,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-12699946.onnx",
+                "reward": 179.2291520436605,
+                "creation_time": 1714091404.9415722,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-12699946.pt"
+                ]
+            },
+            {
+                "steps": 12799874,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-12799874.onnx",
+                "reward": 448.3150039672852,
+                "creation_time": 1714091503.652452,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-12799874.pt"
+                ]
+            },
+            {
+                "steps": 12899941,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-12899941.onnx",
+                "reward": 494.21130216121674,
+                "creation_time": 1714091600.899157,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-12899941.pt"
+                ]
+            },
+            {
+                "steps": 12999934,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-12999934.onnx",
+                "reward": 539.7155596415201,
+                "creation_time": 1714091700.159721,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-12999934.pt"
+                ]
+            },
+            {
+                "steps": 13099911,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-13099911.onnx",
+                "reward": 565.5960019429525,
+                "creation_time": 1714091798.023099,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-13099911.pt"
+                ]
+            },
+            {
+                "steps": 13199910,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-13199910.onnx",
+                "reward": 288.9260940551758,
+                "creation_time": 1714091896.3313978,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-13199910.pt"
+                ]
+            },
+            {
+                "steps": 13299985,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-13299985.onnx",
+                "reward": 423.454439163208,
+                "creation_time": 1714091994.456408,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-13299985.pt"
+                ]
+            },
+            {
+                "steps": 13399925,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-13399925.onnx",
+                "reward": 364.94979226589203,
+                "creation_time": 1714092091.907337,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-13399925.pt"
+                ]
+            },
+            {
+                "steps": 13499754,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-13499754.onnx",
+                "reward": 334.0791907310486,
+                "creation_time": 1714092189.548697,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-13499754.pt"
+                ]
+            },
+            {
+                "steps": 13599764,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-13599764.onnx",
+                "reward": null,
+                "creation_time": 1714092291.81616,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-13599764.pt"
+                ]
+            },
+            {
+                "steps": 13699769,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-13699769.onnx",
+                "reward": null,
+                "creation_time": 1714092389.748275,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-13699769.pt"
+                ]
+            },
+            {
+                "steps": 13799924,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-13799924.onnx",
+                "reward": 189.80003356933594,
+                "creation_time": 1714092488.1104152,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-13799924.pt"
+                ]
+            },
+            {
+                "steps": 13899967,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-13899967.onnx",
+                "reward": -12.0,
+                "creation_time": 1714092585.5262048,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-13899967.pt"
+                ]
+            },
+            {
+                "steps": 13999779,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-13999779.onnx",
+                "reward": 309.6386842727661,
+                "creation_time": 1714092683.919225,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-13999779.pt"
+                ]
+            },
+            {
+                "steps": 14099978,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-14099978.onnx",
+                "reward": 204.8318067550659,
+                "creation_time": 1714092782.576431,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-14099978.pt"
+                ]
+            },
+            {
+                "steps": 14199846,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-14199846.onnx",
+                "reward": 205.81440353393555,
+                "creation_time": 1714092880.171644,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-14199846.pt"
+                ]
+            },
+            {
+                "steps": 14299798,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-14299798.onnx",
+                "reward": 99.02251410484314,
+                "creation_time": 1714092978.268817,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-14299798.pt"
+                ]
+            },
+            {
+                "steps": 14399893,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-14399893.onnx",
+                "reward": 132.56706953048706,
+                "creation_time": 1714093076.663815,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-14399893.pt"
+                ]
+            },
+            {
+                "steps": 14499823,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-14499823.onnx",
+                "reward": 83.63702392578125,
+                "creation_time": 1714093175.046892,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-14499823.pt"
+                ]
+            },
+            {
+                "steps": 14599971,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-14599971.onnx",
+                "reward": 412.7964267730713,
+                "creation_time": 1714093272.996876,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-14599971.pt"
+                ]
+            },
+            {
+                "steps": 14699906,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-14699906.onnx",
+                "reward": 352.83313140869143,
+                "creation_time": 1714093371.301991,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-14699906.pt"
+                ]
+            },
+            {
+                "steps": 14799785,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-14799785.onnx",
+                "reward": 255.05557022094726,
+                "creation_time": 1714093469.0880792,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-14799785.pt"
+                ]
+            },
+            {
+                "steps": 14899919,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-14899919.onnx",
+                "reward": 214.27451372146606,
+                "creation_time": 1714093567.5128782,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-14899919.pt"
+                ]
+            },
+            {
+                "steps": 14999795,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-14999795.onnx",
+                "reward": null,
+                "creation_time": 1714093667.154769,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-14999795.pt"
+                ]
+            },
+            {
+                "steps": 15099833,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-15099833.onnx",
+                "reward": null,
+                "creation_time": 1714093765.1373272,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-15099833.pt"
+                ]
+            },
+            {
+                "steps": 15199763,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-15199763.onnx",
+                "reward": 203.4596290588379,
+                "creation_time": 1714093862.566147,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-15199763.pt"
+                ]
+            },
+            {
+                "steps": 15299840,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-15299840.onnx",
+                "reward": 966.0054399967194,
+                "creation_time": 1714093960.487703,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-15299840.pt"
+                ]
+            },
+            {
+                "steps": 15399832,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-15399832.onnx",
+                "reward": 186.94937133789062,
+                "creation_time": 1714094057.146189,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-15399832.pt"
+                ]
+            },
+            {
+                "steps": 15499848,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-15499848.onnx",
+                "reward": 97.04059600830078,
+                "creation_time": 1714094154.924418,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-15499848.pt"
+                ]
+            },
+            {
+                "steps": 15599995,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-15599995.onnx",
+                "reward": 478.80753326416016,
+                "creation_time": 1714094252.9468338,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-15599995.pt"
+                ]
+            },
+            {
+                "steps": 15699954,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-15699954.onnx",
+                "reward": 401.4184379577637,
+                "creation_time": 1714094349.895044,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-15699954.pt"
+                ]
+            },
+            {
+                "steps": 15799948,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-15799948.onnx",
+                "reward": 405.05428314208984,
+                "creation_time": 1714094448.298944,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-15799948.pt"
+                ]
+            },
+            {
+                "steps": 15899984,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-15899984.onnx",
+                "reward": null,
+                "creation_time": 1714094546.4621189,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-15899984.pt"
+                ]
+            },
+            {
+                "steps": 15999918,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-15999918.onnx",
+                "reward": 343.71035353342694,
+                "creation_time": 1714094642.703733,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-15999918.pt"
+                ]
+            },
+            {
+                "steps": 16099774,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-16099774.onnx",
+                "reward": null,
+                "creation_time": 1714094739.484919,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-16099774.pt"
+                ]
+            },
+            {
+                "steps": 16199876,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-16199876.onnx",
+                "reward": 359.4843394756317,
+                "creation_time": 1714094836.493367,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-16199876.pt"
+                ]
+            },
+            {
+                "steps": 16299900,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-16299900.onnx",
+                "reward": 428.9047019958496,
+                "creation_time": 1714094933.394874,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-16299900.pt"
+                ]
+            },
+            {
+                "steps": 16399999,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-16399999.onnx",
+                "reward": 445.3694305419922,
+                "creation_time": 1714095029.963546,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-16399999.pt"
+                ]
+            },
+            {
+                "steps": 16499938,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-16499938.onnx",
+                "reward": 134.0717887878418,
+                "creation_time": 1714095127.839387,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-16499938.pt"
+                ]
+            },
+            {
+                "steps": 16599769,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-16599769.onnx",
+                "reward": 90.45089594523112,
+                "creation_time": 1714095224.148588,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-16599769.pt"
+                ]
+            },
+            {
+                "steps": 16699777,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-16699777.onnx",
+                "reward": 312.2073891957601,
+                "creation_time": 1714095322.2243998,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-16699777.pt"
+                ]
+            },
+            {
+                "steps": 16799876,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-16799876.onnx",
+                "reward": 350.77903723716736,
+                "creation_time": 1714095418.608897,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-16799876.pt"
+                ]
+            },
+            {
+                "steps": 16899867,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-16899867.onnx",
+                "reward": 677.0995807647705,
+                "creation_time": 1714095515.029669,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-16899867.pt"
+                ]
+            },
+            {
+                "steps": 16999927,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-16999927.onnx",
+                "reward": -3.027414321899414,
+                "creation_time": 1714095612.2023811,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-16999927.pt"
+                ]
+            },
+            {
+                "steps": 17099870,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-17099870.onnx",
+                "reward": 668.2395976384481,
+                "creation_time": 1714095708.6853492,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-17099870.pt"
+                ]
+            },
+            {
+                "steps": 17199744,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-17199744.onnx",
+                "reward": 533.1304909388224,
+                "creation_time": 1714095805.062491,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-17199744.pt"
+                ]
+            },
+            {
+                "steps": 17299785,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-17299785.onnx",
+                "reward": 399.9337753295898,
+                "creation_time": 1714095902.034383,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-17299785.pt"
+                ]
+            },
+            {
+                "steps": 17399942,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-17399942.onnx",
+                "reward": 329.7954730987549,
+                "creation_time": 1714095998.2984698,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-17399942.pt"
+                ]
+            },
+            {
+                "steps": 17499737,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-17499737.onnx",
+                "reward": 154.37884426116943,
+                "creation_time": 1714096094.1879401,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-17499737.pt"
+                ]
+            },
+            {
+                "steps": 17599788,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-17599788.onnx",
+                "reward": 305.5860147078832,
+                "creation_time": 1714096191.4604318,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-17599788.pt"
+                ]
+            },
+            {
+                "steps": 17699737,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-17699737.onnx",
+                "reward": 217.29870986938477,
+                "creation_time": 1714096288.558933,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-17699737.pt"
+                ]
+            },
+            {
+                "steps": 17799838,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-17799838.onnx",
+                "reward": null,
+                "creation_time": 1714096387.316891,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-17799838.pt"
+                ]
+            },
+            {
+                "steps": 17899736,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-17899736.onnx",
+                "reward": 308.53160603841144,
+                "creation_time": 1714096483.0340102,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-17899736.pt"
+                ]
+            },
+            {
+                "steps": 17999971,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-17999971.onnx",
+                "reward": 349.8903374671936,
+                "creation_time": 1714096579.759257,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-17999971.pt"
+                ]
+            },
+            {
+                "steps": 18099904,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-18099904.onnx",
+                "reward": 361.7904541015625,
+                "creation_time": 1714096676.8110971,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-18099904.pt"
+                ]
+            },
+            {
+                "steps": 18199857,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-18199857.onnx",
+                "reward": 428.4047444661458,
+                "creation_time": 1714096774.119471,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-18199857.pt"
+                ]
+            },
+            {
+                "steps": 18299884,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-18299884.onnx",
+                "reward": 347.08826236724855,
+                "creation_time": 1714096870.1789892,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-18299884.pt"
+                ]
+            },
+            {
+                "steps": 18399960,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-18399960.onnx",
+                "reward": null,
+                "creation_time": 1714096969.122786,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-18399960.pt"
+                ]
+            },
+            {
+                "steps": 18499863,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-18499863.onnx",
+                "reward": null,
+                "creation_time": 1714097066.401243,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-18499863.pt"
+                ]
+            },
+            {
+                "steps": 18599812,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-18599812.onnx",
+                "reward": null,
+                "creation_time": 1714097163.910547,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-18599812.pt"
+                ]
+            },
+            {
+                "steps": 18699766,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-18699766.onnx",
+                "reward": null,
+                "creation_time": 1714097259.44883,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-18699766.pt"
+                ]
+            },
+            {
+                "steps": 18799941,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-18799941.onnx",
+                "reward": null,
+                "creation_time": 1714097355.932946,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-18799941.pt"
+                ]
+            },
+            {
+                "steps": 18899960,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-18899960.onnx",
+                "reward": 422.69937896728516,
+                "creation_time": 1714097453.214675,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-18899960.pt"
+                ]
+            },
+            {
+                "steps": 18999935,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-18999935.onnx",
+                "reward": null,
+                "creation_time": 1714097550.645576,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-18999935.pt"
+                ]
+            },
+            {
+                "steps": 19099858,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-19099858.onnx",
+                "reward": 551.117488861084,
+                "creation_time": 1714097646.7911549,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-19099858.pt"
+                ]
+            },
+            {
+                "steps": 19199968,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-19199968.onnx",
+                "reward": 453.42459535598755,
+                "creation_time": 1714097743.998869,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-19199968.pt"
+                ]
+            },
+            {
+                "steps": 19299811,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-19299811.onnx",
+                "reward": 249.58191919326782,
+                "creation_time": 1714097841.789294,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-19299811.pt"
+                ]
+            },
+            {
+                "steps": 19399867,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-19399867.onnx",
+                "reward": 219.73773384094238,
+                "creation_time": 1714097939.927465,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-19399867.pt"
+                ]
+            },
+            {
+                "steps": 19499985,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-19499985.onnx",
+                "reward": null,
+                "creation_time": 1714098036.9178162,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-19499985.pt"
+                ]
+            },
+            {
+                "steps": 19599881,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-19599881.onnx",
+                "reward": 237.48638820648193,
+                "creation_time": 1714098134.2272608,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-19599881.pt"
+                ]
+            },
+            {
+                "steps": 19699767,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-19699767.onnx",
+                "reward": null,
+                "creation_time": 1714098231.403263,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-19699767.pt"
+                ]
+            },
+            {
+                "steps": 19799840,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-19799840.onnx",
+                "reward": null,
+                "creation_time": 1714098327.820951,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-19799840.pt"
+                ]
+            },
+            {
+                "steps": 19899990,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-19899990.onnx",
+                "reward": null,
+                "creation_time": 1714098423.920584,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-19899990.pt"
+                ]
+            },
+            {
+                "steps": 19999883,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-19999883.onnx",
+                "reward": 381.4200897216797,
+                "creation_time": 1714098520.4780538,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-19999883.pt"
+                ]
+            },
+            {
+                "steps": 20099902,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-20099902.onnx",
+                "reward": 462.41489458084106,
+                "creation_time": 1714098616.7817569,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-20099902.pt"
+                ]
+            },
+            {
+                "steps": 20199778,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-20199778.onnx",
+                "reward": 220.21587371826172,
+                "creation_time": 1714098713.627266,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-20199778.pt"
+                ]
+            },
+            {
+                "steps": 20299787,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-20299787.onnx",
+                "reward": 226.4173583984375,
+                "creation_time": 1714098811.097643,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-20299787.pt"
+                ]
+            },
+            {
+                "steps": 20399745,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-20399745.onnx",
+                "reward": null,
+                "creation_time": 1714098907.34708,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-20399745.pt"
+                ]
+            },
+            {
+                "steps": 20499912,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-20499912.onnx",
+                "reward": 808.727653503418,
+                "creation_time": 1714099004.1344588,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-20499912.pt"
+                ]
+            },
+            {
+                "steps": 20599838,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-20599838.onnx",
+                "reward": 583.0293805599213,
+                "creation_time": 1714099101.137321,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-20599838.pt"
+                ]
+            },
+            {
+                "steps": 20699916,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-20699916.onnx",
+                "reward": 409.78699493408203,
+                "creation_time": 1714099197.893286,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-20699916.pt"
+                ]
+            },
+            {
+                "steps": 20799956,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-20799956.onnx",
+                "reward": 665.0027770996094,
+                "creation_time": 1714099295.454985,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-20799956.pt"
+                ]
+            },
+            {
+                "steps": 20899820,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-20899820.onnx",
+                "reward": 416.2648105621338,
+                "creation_time": 1714099393.305353,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-20899820.pt"
+                ]
+            },
+            {
+                "steps": 20999953,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-20999953.onnx",
+                "reward": 524.779257191552,
+                "creation_time": 1714099490.533387,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-20999953.pt"
+                ]
+            },
+            {
+                "steps": 21099758,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-21099758.onnx",
+                "reward": 579.3215532302856,
+                "creation_time": 1714099587.55632,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-21099758.pt"
+                ]
+            },
+            {
+                "steps": 21199955,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-21199955.onnx",
+                "reward": 238.83358919620514,
+                "creation_time": 1714099685.245238,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-21199955.pt"
+                ]
+            },
+            {
+                "steps": 21299763,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-21299763.onnx",
+                "reward": 1011.1580810546875,
+                "creation_time": 1714099782.148845,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-21299763.pt"
+                ]
+            },
+            {
+                "steps": 21399842,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-21399842.onnx",
+                "reward": 299.50308990478516,
+                "creation_time": 1714099880.0589912,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-21399842.pt"
+                ]
+            },
+            {
+                "steps": 21499959,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-21499959.onnx",
+                "reward": 1357.175521850586,
+                "creation_time": 1714099976.183959,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-21499959.pt"
+                ]
+            },
+            {
+                "steps": 21599973,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-21599973.onnx",
+                "reward": 275.5615277290344,
+                "creation_time": 1714100073.287998,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-21599973.pt"
+                ]
+            },
+            {
+                "steps": 21699763,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-21699763.onnx",
+                "reward": 1021.1194405555725,
+                "creation_time": 1714100169.7142131,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-21699763.pt"
+                ]
+            },
+            {
+                "steps": 21799800,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-21799800.onnx",
+                "reward": 963.6514687538147,
+                "creation_time": 1714100266.595671,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-21799800.pt"
+                ]
+            },
+            {
+                "steps": 21899989,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-21899989.onnx",
+                "reward": 895.3053981781006,
+                "creation_time": 1714100363.76241,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-21899989.pt"
+                ]
+            },
+            {
+                "steps": 21999953,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-21999953.onnx",
+                "reward": 142.0083999633789,
+                "creation_time": 1714100460.8597949,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-21999953.pt"
+                ]
+            },
+            {
+                "steps": 22099858,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-22099858.onnx",
+                "reward": 679.7935966491699,
+                "creation_time": 1714100558.150781,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-22099858.pt"
+                ]
+            },
+            {
+                "steps": 22199800,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-22199800.onnx",
+                "reward": 771.5313777923584,
+                "creation_time": 1714100654.57094,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-22199800.pt"
+                ]
+            },
+            {
+                "steps": 22299760,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-22299760.onnx",
+                "reward": 758.2356140136719,
+                "creation_time": 1714100752.092989,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-22299760.pt"
+                ]
+            },
+            {
+                "steps": 22399992,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-22399992.onnx",
+                "reward": 421.08619689941406,
+                "creation_time": 1714100849.9770958,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-22399992.pt"
+                ]
+            },
+            {
+                "steps": 22499812,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-22499812.onnx",
+                "reward": 818.929497718811,
+                "creation_time": 1714100945.450857,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-22499812.pt"
+                ]
+            },
+            {
+                "steps": 22599935,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-22599935.onnx",
+                "reward": 938.1124248504639,
+                "creation_time": 1714101044.064676,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-22599935.pt"
+                ]
+            },
+            {
+                "steps": 22699853,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-22699853.onnx",
+                "reward": null,
+                "creation_time": 1714101140.578482,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-22699853.pt"
+                ]
+            },
+            {
+                "steps": 22799771,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-22799771.onnx",
+                "reward": null,
+                "creation_time": 1714101237.45438,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-22799771.pt"
+                ]
+            },
+            {
+                "steps": 22899851,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-22899851.onnx",
+                "reward": 93.5029296875,
+                "creation_time": 1714101334.390312,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-22899851.pt"
+                ]
+            },
+            {
+                "steps": 22999885,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-22999885.onnx",
+                "reward": 184.21057319641113,
+                "creation_time": 1714101430.9039922,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-22999885.pt"
+                ]
+            },
+            {
+                "steps": 23099995,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-23099995.onnx",
+                "reward": 60.48675537109375,
+                "creation_time": 1714101528.044727,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-23099995.pt"
+                ]
+            },
+            {
+                "steps": 23199985,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-23199985.onnx",
+                "reward": 163.00970458984375,
+                "creation_time": 1714101624.398616,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-23199985.pt"
+                ]
+            },
+            {
+                "steps": 23299783,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-23299783.onnx",
+                "reward": 260.2803192138672,
+                "creation_time": 1714101721.4175591,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-23299783.pt"
+                ]
+            },
+            {
+                "steps": 23399957,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-23399957.onnx",
+                "reward": 258.90128835042316,
+                "creation_time": 1714101818.008919,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-23399957.pt"
+                ]
+            },
+            {
+                "steps": 23499951,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-23499951.onnx",
+                "reward": 125.26346969604492,
+                "creation_time": 1714101915.814037,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-23499951.pt"
+                ]
+            },
+            {
+                "steps": 23599782,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-23599782.onnx",
+                "reward": 242.53301906585693,
+                "creation_time": 1714102012.3210828,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-23599782.pt"
+                ]
+            },
+            {
+                "steps": 23699907,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-23699907.onnx",
+                "reward": 5.692054748535156,
+                "creation_time": 1714102108.6866949,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-23699907.pt"
+                ]
+            },
+            {
+                "steps": 23799818,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-23799818.onnx",
+                "reward": 1244.7411346435547,
+                "creation_time": 1714102204.6636858,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-23799818.pt"
+                ]
+            },
+            {
+                "steps": 23899789,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-23899789.onnx",
+                "reward": null,
+                "creation_time": 1714102301.5545301,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-23899789.pt"
+                ]
+            },
+            {
+                "steps": 23999747,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-23999747.onnx",
+                "reward": 1367.63636636734,
+                "creation_time": 1714102397.7511628,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-23999747.pt"
+                ]
+            },
+            {
+                "steps": 24099813,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-24099813.onnx",
+                "reward": 608.8395195007324,
+                "creation_time": 1714102494.300164,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-24099813.pt"
+                ]
+            },
+            {
+                "steps": 24199971,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-24199971.onnx",
+                "reward": 1273.2459049224854,
+                "creation_time": 1714102590.966151,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-24199971.pt"
+                ]
+            },
+            {
+                "steps": 24299824,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-24299824.onnx",
+                "reward": 820.1455042362213,
+                "creation_time": 1714102687.996264,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-24299824.pt"
+                ]
+            },
+            {
+                "steps": 24399943,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-24399943.onnx",
+                "reward": 619.144240697225,
+                "creation_time": 1714102784.437889,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-24399943.pt"
+                ]
+            },
+            {
+                "steps": 24499801,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-24499801.onnx",
+                "reward": 77.11048126220703,
+                "creation_time": 1714102880.896266,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-24499801.pt"
+                ]
+            },
+            {
+                "steps": 24599787,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-24599787.onnx",
+                "reward": 1695.906758626302,
+                "creation_time": 1714102977.2575119,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-24599787.pt"
+                ]
+            },
+            {
+                "steps": 24699959,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-24699959.onnx",
+                "reward": 545.9318408966064,
+                "creation_time": 1714103073.507874,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-24699959.pt"
+                ]
+            },
+            {
+                "steps": 24799788,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-24799788.onnx",
+                "reward": 864.8066024780273,
+                "creation_time": 1714103169.651465,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-24799788.pt"
+                ]
+            },
+            {
+                "steps": 24899993,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-24899993.onnx",
+                "reward": 461.45928649902345,
+                "creation_time": 1714103265.100322,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-24899993.pt"
+                ]
+            },
+            {
+                "steps": 24999949,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-24999949.onnx",
+                "reward": 837.5806789398193,
+                "creation_time": 1714103361.495098,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-24999949.pt"
+                ]
+            },
+            {
+                "steps": 25099884,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-25099884.onnx",
+                "reward": 1025.0044631958008,
+                "creation_time": 1714103456.892818,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-25099884.pt"
+                ]
+            },
+            {
+                "steps": 25199949,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-25199949.onnx",
+                "reward": 501.90494537353516,
+                "creation_time": 1714103552.640602,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-25199949.pt"
+                ]
+            },
+            {
+                "steps": 25299899,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-25299899.onnx",
+                "reward": 359.88501501083374,
+                "creation_time": 1714103647.8703082,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-25299899.pt"
+                ]
+            },
+            {
+                "steps": 25399830,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-25399830.onnx",
+                "reward": null,
+                "creation_time": 1714103745.894666,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-25399830.pt"
+                ]
+            },
+            {
+                "steps": 25499775,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-25499775.onnx",
+                "reward": 893.550708770752,
+                "creation_time": 1714103840.0267782,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-25499775.pt"
+                ]
+            },
+            {
+                "steps": 25599776,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-25599776.onnx",
+                "reward": null,
+                "creation_time": 1714103938.017914,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-25599776.pt"
+                ]
+            },
+            {
+                "steps": 25699871,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-25699871.onnx",
+                "reward": 2389.225637435913,
+                "creation_time": 1714104032.129504,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-25699871.pt"
+                ]
+            },
+            {
+                "steps": 25799899,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-25799899.onnx",
+                "reward": 2033.1550903320312,
+                "creation_time": 1714104128.350762,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-25799899.pt"
+                ]
+            },
+            {
+                "steps": 25899985,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-25899985.onnx",
+                "reward": null,
+                "creation_time": 1714104225.993846,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-25899985.pt"
+                ]
+            },
+            {
+                "steps": 25999864,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-25999864.onnx",
+                "reward": 1073.9279556274414,
+                "creation_time": 1714104319.788674,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-25999864.pt"
+                ]
+            },
+            {
+                "steps": 26099841,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-26099841.onnx",
+                "reward": 781.1985664367676,
+                "creation_time": 1714104416.4508748,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-26099841.pt"
+                ]
+            },
+            {
+                "steps": 26199942,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-26199942.onnx",
+                "reward": 322.8393809000651,
+                "creation_time": 1714104512.004707,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-26199942.pt"
+                ]
+            },
+            {
+                "steps": 26299944,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-26299944.onnx",
+                "reward": 537.3370014826456,
+                "creation_time": 1714104608.29264,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-26299944.pt"
+                ]
+            },
+            {
+                "steps": 26399755,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-26399755.onnx",
+                "reward": 457.22478370666505,
+                "creation_time": 1714104704.96343,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-26399755.pt"
+                ]
+            },
+            {
+                "steps": 26499986,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-26499986.onnx",
+                "reward": null,
+                "creation_time": 1714104802.405653,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-26499986.pt"
+                ]
+            },
+            {
+                "steps": 26599906,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-26599906.onnx",
+                "reward": 1008.3718036651611,
+                "creation_time": 1714104897.075,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-26599906.pt"
+                ]
+            },
+            {
+                "steps": 26699846,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-26699846.onnx",
+                "reward": 948.2677714029948,
+                "creation_time": 1714104992.473074,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-26699846.pt"
+                ]
+            },
+            {
+                "steps": 26799978,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-26799978.onnx",
+                "reward": 876.091459274292,
+                "creation_time": 1714105088.308296,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-26799978.pt"
+                ]
+            },
+            {
+                "steps": 26899886,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-26899886.onnx",
+                "reward": 1218.1272773742676,
+                "creation_time": 1714105185.651818,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-26899886.pt"
+                ]
+            },
+            {
+                "steps": 26999927,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-26999927.onnx",
+                "reward": null,
+                "creation_time": 1714105281.306117,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-26999927.pt"
+                ]
+            },
+            {
+                "steps": 27099835,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-27099835.onnx",
+                "reward": 434.9905958175659,
+                "creation_time": 1714105375.4902022,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-27099835.pt"
+                ]
+            },
+            {
+                "steps": 27199894,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-27199894.onnx",
+                "reward": null,
+                "creation_time": 1714105472.450377,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-27199894.pt"
+                ]
+            },
+            {
+                "steps": 27299990,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-27299990.onnx",
+                "reward": 2139.3151149749756,
+                "creation_time": 1714105567.9529889,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-27299990.pt"
+                ]
+            },
+            {
+                "steps": 27399766,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-27399766.onnx",
+                "reward": 4824.102844238281,
+                "creation_time": 1714105664.40833,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-27399766.pt"
+                ]
+            },
+            {
+                "steps": 27499815,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-27499815.onnx",
+                "reward": 2042.864384651184,
+                "creation_time": 1714105760.7632241,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-27499815.pt"
+                ]
+            },
+            {
+                "steps": 27599989,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-27599989.onnx",
+                "reward": null,
+                "creation_time": 1714105857.667222,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-27599989.pt"
+                ]
+            },
+            {
+                "steps": 27699890,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-27699890.onnx",
+                "reward": 436.91375732421875,
+                "creation_time": 1714105953.797088,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-27699890.pt"
+                ]
+            },
+            {
+                "steps": 27799878,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-27799878.onnx",
+                "reward": 1670.267905553182,
+                "creation_time": 1714106047.595925,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-27799878.pt"
+                ]
+            },
+            {
+                "steps": 27899923,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-27899923.onnx",
+                "reward": null,
+                "creation_time": 1714106145.8315809,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-27899923.pt"
+                ]
+            },
+            {
+                "steps": 27999936,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-27999936.onnx",
+                "reward": null,
+                "creation_time": 1714106241.905547,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-27999936.pt"
+                ]
+            },
+            {
+                "steps": 28099796,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-28099796.onnx",
+                "reward": null,
+                "creation_time": 1714106338.745436,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-28099796.pt"
+                ]
+            },
+            {
+                "steps": 28199757,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-28199757.onnx",
+                "reward": 778.7028395334879,
+                "creation_time": 1714106432.301994,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-28199757.pt"
+                ]
+            },
+            {
+                "steps": 28299795,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-28299795.onnx",
+                "reward": 488.62148948510486,
+                "creation_time": 1714106528.91501,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-28299795.pt"
+                ]
+            },
+            {
+                "steps": 28399897,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-28399897.onnx",
+                "reward": null,
+                "creation_time": 1714106626.135423,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-28399897.pt"
+                ]
+            },
+            {
+                "steps": 28499838,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-28499838.onnx",
+                "reward": null,
+                "creation_time": 1714106723.005151,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-28499838.pt"
+                ]
+            },
+            {
+                "steps": 28599798,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-28599798.onnx",
+                "reward": null,
+                "creation_time": 1714106819.8713999,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-28599798.pt"
+                ]
+            },
+            {
+                "steps": 28699957,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-28699957.onnx",
+                "reward": 1788.3067481994628,
+                "creation_time": 1714106914.6036952,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-28699957.pt"
+                ]
+            },
+            {
+                "steps": 28799997,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-28799997.onnx",
+                "reward": 414.89610409736633,
+                "creation_time": 1714107011.57618,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-28799997.pt"
+                ]
+            },
+            {
+                "steps": 28899997,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-28899997.onnx",
+                "reward": 1401.0616709391277,
+                "creation_time": 1714107108.642008,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-28899997.pt"
+                ]
+            },
+            {
+                "steps": 28999779,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-28999779.onnx",
+                "reward": 395.3329223632812,
+                "creation_time": 1714107204.735952,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-28999779.pt"
+                ]
+            },
+            {
+                "steps": 29099989,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-29099989.onnx",
+                "reward": 1938.786657969157,
+                "creation_time": 1714107301.831094,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-29099989.pt"
+                ]
+            },
+            {
+                "steps": 29199793,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-29199793.onnx",
+                "reward": 994.1434333801269,
+                "creation_time": 1714107397.614461,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-29199793.pt"
+                ]
+            },
+            {
+                "steps": 29299750,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-29299750.onnx",
+                "reward": 592.9305572509766,
+                "creation_time": 1714107496.968545,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-29299750.pt"
+                ]
+            },
+            {
+                "steps": 29399859,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-29399859.onnx",
+                "reward": 407.4183704853058,
+                "creation_time": 1714107595.851511,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-29399859.pt"
+                ]
+            },
+            {
+                "steps": 29499888,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-29499888.onnx",
+                "reward": 844.1377410888672,
+                "creation_time": 1714107695.582287,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-29499888.pt"
+                ]
+            },
+            {
+                "steps": 29599987,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-29599987.onnx",
+                "reward": 1235.39397315979,
+                "creation_time": 1714107794.037623,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-29599987.pt"
+                ]
+            },
+            {
+                "steps": 29699933,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-29699933.onnx",
+                "reward": 654.9390773773193,
+                "creation_time": 1714107892.060065,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-29699933.pt"
+                ]
+            },
+            {
+                "steps": 29799865,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-29799865.onnx",
+                "reward": 410.37801424662274,
+                "creation_time": 1714107987.79636,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-29799865.pt"
+                ]
+            },
+            {
+                "steps": 29899985,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-29899985.onnx",
+                "reward": 261.16986083984375,
+                "creation_time": 1714108083.5292668,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-29899985.pt"
+                ]
+            },
+            {
+                "steps": 29999841,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-29999841.onnx",
+                "reward": 636.3232460021973,
+                "creation_time": 1714108179.355278,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-29999841.pt"
+                ]
+            },
+            {
+                "steps": 30099916,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-30099916.onnx",
+                "reward": 750.3397550582886,
+                "creation_time": 1714108275.164945,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-30099916.pt"
+                ]
+            },
+            {
+                "steps": 30199863,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-30199863.onnx",
+                "reward": 481.94043827056885,
+                "creation_time": 1714108371.438538,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-30199863.pt"
+                ]
+            },
+            {
+                "steps": 30299994,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-30299994.onnx",
+                "reward": null,
+                "creation_time": 1714108469.9087691,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-30299994.pt"
+                ]
+            },
+            {
+                "steps": 30399839,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-30399839.onnx",
+                "reward": null,
+                "creation_time": 1714108565.248002,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-30399839.pt"
+                ]
+            },
+            {
+                "steps": 30499940,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-30499940.onnx",
+                "reward": null,
+                "creation_time": 1714108660.725069,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-30499940.pt"
+                ]
+            },
+            {
+                "steps": 30599785,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-30599785.onnx",
+                "reward": null,
+                "creation_time": 1714108756.676524,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-30599785.pt"
+                ]
+            },
+            {
+                "steps": 30699758,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-30699758.onnx",
+                "reward": 567.7194290161133,
+                "creation_time": 1714108851.950176,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-30699758.pt"
+                ]
+            },
+            {
+                "steps": 30799922,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-30799922.onnx",
+                "reward": null,
+                "creation_time": 1714108947.459348,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-30799922.pt"
+                ]
+            },
+            {
+                "steps": 30899898,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-30899898.onnx",
+                "reward": 322.841703414917,
+                "creation_time": 1714109044.034475,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-30899898.pt"
+                ]
+            },
+            {
+                "steps": 30999886,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-30999886.onnx",
+                "reward": 2432.6773376464844,
+                "creation_time": 1714109139.3462698,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-30999886.pt"
+                ]
+            },
+            {
+                "steps": 31099885,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-31099885.onnx",
+                "reward": 270.8725172281265,
+                "creation_time": 1714109235.513367,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-31099885.pt"
+                ]
+            },
+            {
+                "steps": 31199760,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-31199760.onnx",
+                "reward": 584.1000633239746,
+                "creation_time": 1714109330.7561579,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-31199760.pt"
+                ]
+            },
+            {
+                "steps": 31299815,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-31299815.onnx",
+                "reward": null,
+                "creation_time": 1714109426.9634922,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-31299815.pt"
+                ]
+            },
+            {
+                "steps": 31399918,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-31399918.onnx",
+                "reward": null,
+                "creation_time": 1714109522.8166232,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-31399918.pt"
+                ]
+            },
+            {
+                "steps": 31499848,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-31499848.onnx",
+                "reward": 2679.0255699157715,
+                "creation_time": 1714109618.2484858,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-31499848.pt"
+                ]
+            },
+            {
+                "steps": 31599943,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-31599943.onnx",
+                "reward": 4343.614990234375,
+                "creation_time": 1714109714.6294441,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-31599943.pt"
+                ]
+            },
+            {
+                "steps": 31699832,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-31699832.onnx",
+                "reward": null,
+                "creation_time": 1714109810.351501,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-31699832.pt"
+                ]
+            },
+            {
+                "steps": 31799836,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-31799836.onnx",
+                "reward": 1730.2578988075256,
+                "creation_time": 1714109905.729915,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-31799836.pt"
+                ]
+            },
+            {
+                "steps": 31899937,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-31899937.onnx",
+                "reward": null,
+                "creation_time": 1714110001.625155,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-31899937.pt"
+                ]
+            },
+            {
+                "steps": 31999775,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-31999775.onnx",
+                "reward": null,
+                "creation_time": 1714110098.315229,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-31999775.pt"
+                ]
+            },
+            {
+                "steps": 32099872,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-32099872.onnx",
+                "reward": null,
+                "creation_time": 1714110193.804092,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-32099872.pt"
+                ]
+            },
+            {
+                "steps": 32199967,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-32199967.onnx",
+                "reward": null,
+                "creation_time": 1714110289.831934,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-32199967.pt"
+                ]
+            },
+            {
+                "steps": 32299972,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-32299972.onnx",
+                "reward": null,
+                "creation_time": 1714110384.813312,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-32299972.pt"
+                ]
+            },
+            {
+                "steps": 32399880,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-32399880.onnx",
+                "reward": 1220.8244533538818,
+                "creation_time": 1714110480.222361,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-32399880.pt"
+                ]
+            },
+            {
+                "steps": 32499818,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-32499818.onnx",
+                "reward": 812.3083992004395,
+                "creation_time": 1714110576.122402,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-32499818.pt"
+                ]
+            },
+            {
+                "steps": 32599744,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-32599744.onnx",
+                "reward": 240.33917999267578,
+                "creation_time": 1714110672.351805,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-32599744.pt"
+                ]
+            },
+            {
+                "steps": 32699805,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-32699805.onnx",
+                "reward": null,
+                "creation_time": 1714110767.7699058,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-32699805.pt"
+                ]
+            },
+            {
+                "steps": 32799739,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-32799739.onnx",
+                "reward": null,
+                "creation_time": 1714110863.365123,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-32799739.pt"
+                ]
+            },
+            {
+                "steps": 32899755,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-32899755.onnx",
+                "reward": 914.6241874694824,
+                "creation_time": 1714110959.217422,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-32899755.pt"
+                ]
+            },
+            {
+                "steps": 32999904,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-32999904.onnx",
+                "reward": 1056.2632522583008,
+                "creation_time": 1714111054.9803782,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-32999904.pt"
+                ]
+            },
+            {
+                "steps": 33099834,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-33099834.onnx",
+                "reward": 27.158000946044922,
+                "creation_time": 1714111150.974756,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-33099834.pt"
+                ]
+            },
+            {
+                "steps": 33199831,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-33199831.onnx",
+                "reward": 1519.5772857666016,
+                "creation_time": 1714111246.640585,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-33199831.pt"
+                ]
+            },
+            {
+                "steps": 33299923,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-33299923.onnx",
+                "reward": null,
+                "creation_time": 1714111342.563951,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-33299923.pt"
+                ]
+            },
+            {
+                "steps": 33399799,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-33399799.onnx",
+                "reward": null,
+                "creation_time": 1714111437.407072,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-33399799.pt"
+                ]
+            },
+            {
+                "steps": 33499859,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-33499859.onnx",
+                "reward": 191.14447021484375,
+                "creation_time": 1714111532.409376,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-33499859.pt"
+                ]
+            },
+            {
+                "steps": 33599891,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-33599891.onnx",
+                "reward": 482.9676971435547,
+                "creation_time": 1714111628.568084,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-33599891.pt"
+                ]
+            },
+            {
+                "steps": 33699865,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-33699865.onnx",
+                "reward": 1067.5386810302734,
+                "creation_time": 1714111724.478511,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-33699865.pt"
+                ]
+            },
+            {
+                "steps": 33799762,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-33799762.onnx",
+                "reward": 44.68766403198242,
+                "creation_time": 1714111819.7959418,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-33799762.pt"
+                ]
+            },
+            {
+                "steps": 33899780,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-33899780.onnx",
+                "reward": 1916.148365020752,
+                "creation_time": 1714111916.1201842,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-33899780.pt"
+                ]
+            },
+            {
+                "steps": 33999900,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-33999900.onnx",
+                "reward": 331.12090555826825,
+                "creation_time": 1714112011.955501,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-33999900.pt"
+                ]
+            },
+            {
+                "steps": 34099876,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-34099876.onnx",
+                "reward": 667.2639719645182,
+                "creation_time": 1714112107.514515,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-34099876.pt"
+                ]
+            },
+            {
+                "steps": 34199860,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-34199860.onnx",
+                "reward": 1351.961102803548,
+                "creation_time": 1714112203.2116039,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-34199860.pt"
+                ]
+            },
+            {
+                "steps": 34299895,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-34299895.onnx",
+                "reward": 1047.5519104003906,
+                "creation_time": 1714112299.015423,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-34299895.pt"
+                ]
+            },
+            {
+                "steps": 34399823,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-34399823.onnx",
+                "reward": 1299.4910634358723,
+                "creation_time": 1714112394.9190881,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-34399823.pt"
+                ]
+            },
+            {
+                "steps": 34499892,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-34499892.onnx",
+                "reward": 790.3588511149088,
+                "creation_time": 1714112489.9882371,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-34499892.pt"
+                ]
+            },
+            {
+                "steps": 34599868,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-34599868.onnx",
+                "reward": 741.2288861274719,
+                "creation_time": 1714112585.614358,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-34599868.pt"
+                ]
+            },
+            {
+                "steps": 34699803,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-34699803.onnx",
+                "reward": 89.97805285453796,
+                "creation_time": 1714112682.095229,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-34699803.pt"
+                ]
+            },
+            {
+                "steps": 34799940,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-34799940.onnx",
+                "reward": 752.6530151367188,
+                "creation_time": 1714112778.0232599,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-34799940.pt"
+                ]
+            },
+            {
+                "steps": 34899801,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-34899801.onnx",
+                "reward": 1072.3803176879883,
+                "creation_time": 1714112873.337365,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-34899801.pt"
+                ]
+            },
+            {
+                "steps": 34999785,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-34999785.onnx",
+                "reward": 60.04954147338867,
+                "creation_time": 1714112967.9270232,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-34999785.pt"
+                ]
+            },
+            {
+                "steps": 35099996,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-35099996.onnx",
+                "reward": 1813.197373231252,
+                "creation_time": 1714113064.363132,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-35099996.pt"
+                ]
+            },
+            {
+                "steps": 35199814,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-35199814.onnx",
+                "reward": 476.99473571777344,
+                "creation_time": 1714113159.405292,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-35199814.pt"
+                ]
+            },
+            {
+                "steps": 35299857,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-35299857.onnx",
+                "reward": 820.1383237838745,
+                "creation_time": 1714113254.991625,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-35299857.pt"
+                ]
+            },
+            {
+                "steps": 35399848,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-35399848.onnx",
+                "reward": 1537.7417449951172,
+                "creation_time": 1714113352.489213,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-35399848.pt"
+                ]
+            },
+            {
+                "steps": 35499900,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-35499900.onnx",
+                "reward": null,
+                "creation_time": 1714113447.3905149,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-35499900.pt"
+                ]
+            },
+            {
+                "steps": 35599826,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-35599826.onnx",
+                "reward": null,
+                "creation_time": 1714113543.8998148,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-35599826.pt"
+                ]
+            },
+            {
+                "steps": 35699984,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-35699984.onnx",
+                "reward": null,
+                "creation_time": 1714113638.382967,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-35699984.pt"
+                ]
+            },
+            {
+                "steps": 35799768,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-35799768.onnx",
+                "reward": null,
+                "creation_time": 1714113733.687476,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-35799768.pt"
+                ]
+            },
+            {
+                "steps": 35899908,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-35899908.onnx",
+                "reward": 3154.6370849609375,
+                "creation_time": 1714113828.3776221,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-35899908.pt"
+                ]
+            },
+            {
+                "steps": 35999880,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-35999880.onnx",
+                "reward": 673.5560913085938,
+                "creation_time": 1714113924.013219,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-35999880.pt"
+                ]
+            },
+            {
+                "steps": 36099923,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-36099923.onnx",
+                "reward": 416.6771469116211,
+                "creation_time": 1714114019.426611,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-36099923.pt"
+                ]
+            },
+            {
+                "steps": 36199944,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-36199944.onnx",
+                "reward": null,
+                "creation_time": 1714114115.01709,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-36199944.pt"
+                ]
+            },
+            {
+                "steps": 36299966,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-36299966.onnx",
+                "reward": 372.08265686035156,
+                "creation_time": 1714114211.4354482,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-36299966.pt"
+                ]
+            },
+            {
+                "steps": 36399746,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-36399746.onnx",
+                "reward": 106.62159729003906,
+                "creation_time": 1714114306.4306052,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-36399746.pt"
+                ]
+            },
+            {
+                "steps": 36499934,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-36499934.onnx",
+                "reward": 623.6755523681641,
+                "creation_time": 1714114402.0251079,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-36499934.pt"
+                ]
+            },
+            {
+                "steps": 36599949,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-36599949.onnx",
+                "reward": 251.94181632995605,
+                "creation_time": 1714114498.337876,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-36599949.pt"
+                ]
+            },
+            {
+                "steps": 36699840,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-36699840.onnx",
+                "reward": 190.9938507080078,
+                "creation_time": 1714114594.518542,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-36699840.pt"
+                ]
+            },
+            {
+                "steps": 36799850,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-36799850.onnx",
+                "reward": 987.9261727333069,
+                "creation_time": 1714114689.370435,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-36799850.pt"
+                ]
+            },
+            {
+                "steps": 36899997,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-36899997.onnx",
+                "reward": 799.0212198893229,
+                "creation_time": 1714114785.018955,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-36899997.pt"
+                ]
+            },
+            {
+                "steps": 36999873,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-36999873.onnx",
+                "reward": 1291.4061393737793,
+                "creation_time": 1714114880.312362,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-36999873.pt"
+                ]
+            },
+            {
+                "steps": 37099800,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-37099800.onnx",
+                "reward": 954.3922500610352,
+                "creation_time": 1714114975.863783,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-37099800.pt"
+                ]
+            },
+            {
+                "steps": 37199850,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-37199850.onnx",
+                "reward": null,
+                "creation_time": 1714115072.945722,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-37199850.pt"
+                ]
+            },
+            {
+                "steps": 37299818,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-37299818.onnx",
+                "reward": 1251.7976843516033,
+                "creation_time": 1714115166.442498,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-37299818.pt"
+                ]
+            },
+            {
+                "steps": 37399857,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-37399857.onnx",
+                "reward": 1227.2060241699219,
+                "creation_time": 1714115262.7819421,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-37399857.pt"
+                ]
+            },
+            {
+                "steps": 37499850,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-37499850.onnx",
+                "reward": 949.7484979629517,
+                "creation_time": 1714115358.10995,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-37499850.pt"
+                ]
+            },
+            {
+                "steps": 37599763,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-37599763.onnx",
+                "reward": 2295.625560760498,
+                "creation_time": 1714115452.993688,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-37599763.pt"
+                ]
+            },
+            {
+                "steps": 37699954,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-37699954.onnx",
+                "reward": 791.372257232666,
+                "creation_time": 1714115549.3910139,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-37699954.pt"
+                ]
+            },
+            {
+                "steps": 37799826,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-37799826.onnx",
+                "reward": null,
+                "creation_time": 1714115646.382438,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-37799826.pt"
+                ]
+            },
+            {
+                "steps": 37899994,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-37899994.onnx",
+                "reward": 553.2124862670898,
+                "creation_time": 1714115741.602716,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-37899994.pt"
+                ]
+            },
+            {
+                "steps": 37999845,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-37999845.onnx",
+                "reward": null,
+                "creation_time": 1714115838.099885,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-37999845.pt"
+                ]
+            },
+            {
+                "steps": 38099778,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-38099778.onnx",
+                "reward": 753.8124012947083,
+                "creation_time": 1714115932.040063,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-38099778.pt"
+                ]
+            },
+            {
+                "steps": 38199945,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-38199945.onnx",
+                "reward": null,
+                "creation_time": 1714116028.873516,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-38199945.pt"
+                ]
+            },
+            {
+                "steps": 38299941,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-38299941.onnx",
+                "reward": 769.8553085327148,
+                "creation_time": 1714116124.497055,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-38299941.pt"
+                ]
+            },
+            {
+                "steps": 38399938,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-38399938.onnx",
+                "reward": null,
+                "creation_time": 1714116220.6159391,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-38399938.pt"
+                ]
+            },
+            {
+                "steps": 38499872,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-38499872.onnx",
+                "reward": null,
+                "creation_time": 1714116316.170472,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-38499872.pt"
+                ]
+            },
+            {
+                "steps": 38599765,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-38599765.onnx",
+                "reward": null,
+                "creation_time": 1714116412.233736,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-38599765.pt"
+                ]
+            },
+            {
+                "steps": 38699918,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-38699918.onnx",
+                "reward": null,
+                "creation_time": 1714116508.4504929,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-38699918.pt"
+                ]
+            },
+            {
+                "steps": 38799924,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-38799924.onnx",
+                "reward": null,
+                "creation_time": 1714116603.990051,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-38799924.pt"
+                ]
+            },
+            {
+                "steps": 38899829,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-38899829.onnx",
+                "reward": null,
+                "creation_time": 1714116699.012876,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-38899829.pt"
+                ]
+            },
+            {
+                "steps": 38999766,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-38999766.onnx",
+                "reward": 112.23500061035156,
+                "creation_time": 1714116794.099898,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-38999766.pt"
+                ]
+            },
+            {
+                "steps": 39099999,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-39099999.onnx",
+                "reward": 3068.949752807617,
+                "creation_time": 1714116889.837499,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-39099999.pt"
+                ]
+            },
+            {
+                "steps": 39199883,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-39199883.onnx",
+                "reward": null,
+                "creation_time": 1714116985.765155,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-39199883.pt"
+                ]
+            },
+            {
+                "steps": 39299844,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-39299844.onnx",
+                "reward": 2184.9326782226562,
+                "creation_time": 1714117081.128978,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-39299844.pt"
+                ]
+            },
+            {
+                "steps": 39399881,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-39399881.onnx",
+                "reward": null,
+                "creation_time": 1714117176.158729,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-39399881.pt"
+                ]
+            },
+            {
+                "steps": 39499773,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-39499773.onnx",
+                "reward": null,
+                "creation_time": 1714117272.224452,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-39499773.pt"
+                ]
+            },
+            {
+                "steps": 39599988,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-39599988.onnx",
+                "reward": null,
+                "creation_time": 1714117368.3060968,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-39599988.pt"
+                ]
+            },
+            {
+                "steps": 39699945,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-39699945.onnx",
+                "reward": 267.7503662109375,
+                "creation_time": 1714117463.8622222,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-39699945.pt"
+                ]
+            },
+            {
+                "steps": 39799984,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-39799984.onnx",
+                "reward": null,
+                "creation_time": 1714117559.38875,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-39799984.pt"
+                ]
+            },
+            {
+                "steps": 39899985,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-39899985.onnx",
+                "reward": null,
+                "creation_time": 1714117654.644644,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-39899985.pt"
+                ]
+            },
+            {
+                "steps": 39999771,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-39999771.onnx",
+                "reward": 874.0771560668945,
+                "creation_time": 1714117750.166446,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-39999771.pt"
+                ]
+            },
+            {
+                "steps": 40099952,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-40099952.onnx",
+                "reward": 1192.7573587099712,
+                "creation_time": 1714117845.398083,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-40099952.pt"
+                ]
+            },
+            {
+                "steps": 40199738,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-40199738.onnx",
+                "reward": null,
+                "creation_time": 1714117940.913385,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-40199738.pt"
+                ]
+            },
+            {
+                "steps": 40299899,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-40299899.onnx",
+                "reward": null,
+                "creation_time": 1714118038.281058,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-40299899.pt"
+                ]
+            },
+            {
+                "steps": 40399838,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-40399838.onnx",
+                "reward": null,
+                "creation_time": 1714118132.783221,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-40399838.pt"
+                ]
+            },
+            {
+                "steps": 40499762,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-40499762.onnx",
+                "reward": null,
+                "creation_time": 1714118227.6801631,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-40499762.pt"
+                ]
+            },
+            {
+                "steps": 40599860,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-40599860.onnx",
+                "reward": 3516.905059814453,
+                "creation_time": 1714118323.061829,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-40599860.pt"
+                ]
+            },
+            {
+                "steps": 40699828,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-40699828.onnx",
+                "reward": 937.3771514892578,
+                "creation_time": 1714118418.0196102,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-40699828.pt"
+                ]
+            },
+            {
+                "steps": 40799909,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-40799909.onnx",
+                "reward": null,
+                "creation_time": 1714118514.130852,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-40799909.pt"
+                ]
+            },
+            {
+                "steps": 40899970,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-40899970.onnx",
+                "reward": 2424.4114990234375,
+                "creation_time": 1714118609.156134,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-40899970.pt"
+                ]
+            },
+            {
+                "steps": 40999821,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-40999821.onnx",
+                "reward": 1959.801025390625,
+                "creation_time": 1714118704.366684,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-40999821.pt"
+                ]
+            },
+            {
+                "steps": 41099789,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-41099789.onnx",
+                "reward": null,
+                "creation_time": 1714118799.720418,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-41099789.pt"
+                ]
+            },
+            {
+                "steps": 41199997,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-41199997.onnx",
+                "reward": null,
+                "creation_time": 1714118896.568795,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-41199997.pt"
+                ]
+            },
+            {
+                "steps": 41299953,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-41299953.onnx",
+                "reward": null,
+                "creation_time": 1714118990.9325771,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-41299953.pt"
+                ]
+            },
+            {
+                "steps": 41399815,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-41399815.onnx",
+                "reward": 1243.4433345794678,
+                "creation_time": 1714119086.3510551,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-41399815.pt"
+                ]
+            },
+            {
+                "steps": 41499768,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-41499768.onnx",
+                "reward": null,
+                "creation_time": 1714119183.168691,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-41499768.pt"
+                ]
+            },
+            {
+                "steps": 41599807,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-41599807.onnx",
+                "reward": null,
+                "creation_time": 1714119280.7007098,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-41599807.pt"
+                ]
+            },
+            {
+                "steps": 41699879,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-41699879.onnx",
+                "reward": 1380.9475345611572,
+                "creation_time": 1714119377.939052,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-41699879.pt"
+                ]
+            },
+            {
+                "steps": 41799836,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-41799836.onnx",
+                "reward": 1489.285740852356,
+                "creation_time": 1714119474.5330272,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-41799836.pt"
+                ]
+            },
+            {
+                "steps": 41899972,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-41899972.onnx",
+                "reward": 4431.745376586914,
+                "creation_time": 1714119570.5471091,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-41899972.pt"
+                ]
+            },
+            {
+                "steps": 41999980,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-41999980.onnx",
+                "reward": 647.1546096801758,
+                "creation_time": 1714119666.351377,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-41999980.pt"
+                ]
+            },
+            {
+                "steps": 42099798,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-42099798.onnx",
+                "reward": 121.21377229690552,
+                "creation_time": 1714119761.9347048,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-42099798.pt"
+                ]
+            },
+            {
+                "steps": 42199809,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-42199809.onnx",
+                "reward": null,
+                "creation_time": 1714119857.536289,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-42199809.pt"
+                ]
+            },
+            {
+                "steps": 42299787,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-42299787.onnx",
+                "reward": null,
+                "creation_time": 1714119952.926118,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-42299787.pt"
+                ]
+            },
+            {
+                "steps": 42399774,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-42399774.onnx",
+                "reward": null,
+                "creation_time": 1714120048.582846,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-42399774.pt"
+                ]
+            },
+            {
+                "steps": 42499952,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-42499952.onnx",
+                "reward": null,
+                "creation_time": 1714120143.682306,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-42499952.pt"
+                ]
+            },
+            {
+                "steps": 42599920,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-42599920.onnx",
+                "reward": 777.3457336425781,
+                "creation_time": 1714120238.712076,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-42599920.pt"
+                ]
+            },
+            {
+                "steps": 42699873,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-42699873.onnx",
+                "reward": 2976.927780151367,
+                "creation_time": 1714120333.638067,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-42699873.pt"
+                ]
+            },
+            {
+                "steps": 42799975,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-42799975.onnx",
+                "reward": 876.9275653362274,
+                "creation_time": 1714120428.949718,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-42799975.pt"
+                ]
+            },
+            {
+                "steps": 42899845,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-42899845.onnx",
+                "reward": 4243.4616775512695,
+                "creation_time": 1714120523.92873,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-42899845.pt"
+                ]
+            },
+            {
+                "steps": 42999845,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-42999845.onnx",
+                "reward": 1632.5680303573608,
+                "creation_time": 1714120619.355148,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-42999845.pt"
+                ]
+            },
+            {
+                "steps": 43099741,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-43099741.onnx",
+                "reward": 2204.322219848633,
+                "creation_time": 1714120714.1341271,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-43099741.pt"
+                ]
+            },
+            {
+                "steps": 43199906,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-43199906.onnx",
+                "reward": 493.65668869018555,
+                "creation_time": 1714120809.5734022,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-43199906.pt"
+                ]
+            },
+            {
+                "steps": 43299935,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-43299935.onnx",
+                "reward": 1433.0952059328556,
+                "creation_time": 1714120904.3293839,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-43299935.pt"
+                ]
+            },
+            {
+                "steps": 43399958,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-43399958.onnx",
+                "reward": 106.21669006347656,
+                "creation_time": 1714120999.337249,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-43399958.pt"
+                ]
+            },
+            {
+                "steps": 43499784,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-43499784.onnx",
+                "reward": 1724.5614238977432,
+                "creation_time": 1714121093.908708,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-43499784.pt"
+                ]
+            },
+            {
+                "steps": 43599999,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-43599999.onnx",
+                "reward": 1405.3205966949463,
+                "creation_time": 1714121190.0408,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-43599999.pt"
+                ]
+            },
+            {
+                "steps": 43699926,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-43699926.onnx",
+                "reward": 1127.352554321289,
+                "creation_time": 1714121284.1485708,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-43699926.pt"
+                ]
+            },
+            {
+                "steps": 43799959,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-43799959.onnx",
+                "reward": 2481.249059677124,
+                "creation_time": 1714121380.056491,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-43799959.pt"
+                ]
+            },
+            {
+                "steps": 43899916,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-43899916.onnx",
+                "reward": 934.7649879455566,
+                "creation_time": 1714121475.441547,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-43899916.pt"
+                ]
+            },
+            {
+                "steps": 43999911,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-43999911.onnx",
+                "reward": 3566.087272644043,
+                "creation_time": 1714121571.436713,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-43999911.pt"
+                ]
+            },
+            {
+                "steps": 44099958,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-44099958.onnx",
+                "reward": 974.6247069040934,
+                "creation_time": 1714121665.9530659,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-44099958.pt"
+                ]
+            },
+            {
+                "steps": 44199761,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-44199761.onnx",
+                "reward": 3131.3469899495444,
+                "creation_time": 1714121762.281766,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-44199761.pt"
+                ]
+            },
+            {
+                "steps": 44299990,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-44299990.onnx",
+                "reward": 389.9062271118164,
+                "creation_time": 1714121857.273553,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-44299990.pt"
+                ]
+            },
+            {
+                "steps": 44399947,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-44399947.onnx",
+                "reward": 936.8278554280599,
+                "creation_time": 1714121952.906338,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-44399947.pt"
+                ]
+            },
+            {
+                "steps": 44499982,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-44499982.onnx",
+                "reward": -15.0,
+                "creation_time": 1714122048.676826,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-44499982.pt"
+                ]
+            },
+            {
+                "steps": 44599771,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-44599771.onnx",
+                "reward": 3140.4336166381836,
+                "creation_time": 1714122143.9724932,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-44599771.pt"
+                ]
+            },
+            {
+                "steps": 44699837,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-44699837.onnx",
+                "reward": null,
+                "creation_time": 1714122241.2021608,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-44699837.pt"
+                ]
+            },
+            {
+                "steps": 44799914,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-44799914.onnx",
+                "reward": null,
+                "creation_time": 1714122337.075022,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-44799914.pt"
+                ]
+            },
+            {
+                "steps": 44899978,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-44899978.onnx",
+                "reward": null,
+                "creation_time": 1714122432.5343082,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-44899978.pt"
+                ]
+            },
+            {
+                "steps": 44999797,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-44999797.onnx",
+                "reward": null,
+                "creation_time": 1714122528.25968,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-44999797.pt"
+                ]
+            },
+            {
+                "steps": 45099890,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-45099890.onnx",
+                "reward": null,
+                "creation_time": 1714122623.425888,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-45099890.pt"
+                ]
+            },
+            {
+                "steps": 45199952,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-45199952.onnx",
+                "reward": 190.19012451171875,
+                "creation_time": 1714122718.5369432,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-45199952.pt"
+                ]
+            },
+            {
+                "steps": 45299883,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-45299883.onnx",
+                "reward": null,
+                "creation_time": 1714122813.987228,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-45299883.pt"
+                ]
+            },
+            {
+                "steps": 45399894,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-45399894.onnx",
+                "reward": null,
+                "creation_time": 1714122909.6531599,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-45399894.pt"
+                ]
+            },
+            {
+                "steps": 45499769,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-45499769.onnx",
+                "reward": 552.3100891113281,
+                "creation_time": 1714123004.63426,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-45499769.pt"
+                ]
+            },
+            {
+                "steps": 45599916,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-45599916.onnx",
+                "reward": 1232.025022983551,
+                "creation_time": 1714123100.1844091,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-45599916.pt"
+                ]
+            },
+            {
+                "steps": 45699775,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-45699775.onnx",
+                "reward": null,
+                "creation_time": 1714123196.445249,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-45699775.pt"
+                ]
+            },
+            {
+                "steps": 45799817,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-45799817.onnx",
+                "reward": null,
+                "creation_time": 1714123291.097389,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-45799817.pt"
+                ]
+            },
+            {
+                "steps": 45899944,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-45899944.onnx",
+                "reward": 2602.403953552246,
+                "creation_time": 1714123387.1072052,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-45899944.pt"
+                ]
+            },
+            {
+                "steps": 45999746,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-45999746.onnx",
+                "reward": 2546.8685941696167,
+                "creation_time": 1714123482.737628,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-45999746.pt"
+                ]
+            },
+            {
+                "steps": 46099915,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-46099915.onnx",
+                "reward": 359.40196990966797,
+                "creation_time": 1714123577.739587,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-46099915.pt"
+                ]
+            },
+            {
+                "steps": 46199867,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-46199867.onnx",
+                "reward": 1941.7402470906575,
+                "creation_time": 1714123673.88554,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-46199867.pt"
+                ]
+            },
+            {
+                "steps": 46299838,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-46299838.onnx",
+                "reward": 1321.3412432670593,
+                "creation_time": 1714123769.817826,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-46299838.pt"
+                ]
+            },
+            {
+                "steps": 46399941,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-46399941.onnx",
+                "reward": 347.45188903808594,
+                "creation_time": 1714123864.37494,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-46399941.pt"
+                ]
+            },
+            {
+                "steps": 46499914,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-46499914.onnx",
+                "reward": 1387.2000742912292,
+                "creation_time": 1714123960.6662688,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-46499914.pt"
+                ]
+            },
+            {
+                "steps": 46599816,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-46599816.onnx",
+                "reward": 1726.1446380615234,
+                "creation_time": 1714124056.0434968,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-46599816.pt"
+                ]
+            },
+            {
+                "steps": 46699880,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-46699880.onnx",
+                "reward": 945.5358085632324,
+                "creation_time": 1714124151.8890722,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-46699880.pt"
+                ]
+            },
+            {
+                "steps": 46799784,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-46799784.onnx",
+                "reward": null,
+                "creation_time": 1714124246.8127081,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-46799784.pt"
+                ]
+            },
+            {
+                "steps": 46899994,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-46899994.onnx",
+                "reward": 761.2793197631836,
+                "creation_time": 1714124342.493418,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-46899994.pt"
+                ]
+            },
+            {
+                "steps": 46999828,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-46999828.onnx",
+                "reward": 682.3593444824219,
+                "creation_time": 1714124437.115659,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-46999828.pt"
+                ]
+            },
+            {
+                "steps": 47099740,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-47099740.onnx",
+                "reward": 1463.5680122375488,
+                "creation_time": 1714124531.535029,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-47099740.pt"
+                ]
+            },
+            {
+                "steps": 47199844,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-47199844.onnx",
+                "reward": 519.7643127441406,
+                "creation_time": 1714124627.403805,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-47199844.pt"
+                ]
+            },
+            {
+                "steps": 47299871,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-47299871.onnx",
+                "reward": null,
+                "creation_time": 1714124723.520925,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-47299871.pt"
+                ]
+            },
+            {
+                "steps": 47399902,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-47399902.onnx",
+                "reward": 2563.664436340332,
+                "creation_time": 1714124818.322912,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-47399902.pt"
+                ]
+            },
+            {
+                "steps": 47499807,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-47499807.onnx",
+                "reward": 243.2228775024414,
+                "creation_time": 1714124913.303604,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-47499807.pt"
+                ]
+            },
+            {
+                "steps": 47599762,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-47599762.onnx",
+                "reward": 1959.8322118123372,
+                "creation_time": 1714125008.3491998,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-47599762.pt"
+                ]
+            },
+            {
+                "steps": 47699777,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-47699777.onnx",
+                "reward": 2083.8862628936768,
+                "creation_time": 1714125104.841218,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-47699777.pt"
+                ]
+            },
+            {
+                "steps": 47799950,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-47799950.onnx",
+                "reward": 1024.6910157203674,
+                "creation_time": 1714125200.9747882,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-47799950.pt"
+                ]
+            },
+            {
+                "steps": 47899917,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-47899917.onnx",
+                "reward": 300.4528617858887,
+                "creation_time": 1714125295.6600661,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-47899917.pt"
+                ]
+            },
+            {
+                "steps": 47999785,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-47999785.onnx",
+                "reward": 2935.421022415161,
+                "creation_time": 1714125391.6754282,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-47999785.pt"
+                ]
+            },
+            {
+                "steps": 48099944,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-48099944.onnx",
+                "reward": 3004.396041870117,
+                "creation_time": 1714125486.692564,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-48099944.pt"
+                ]
+            },
+            {
+                "steps": 48199934,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-48199934.onnx",
+                "reward": 251.06637573242188,
+                "creation_time": 1714125582.160804,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-48199934.pt"
+                ]
+            },
+            {
+                "steps": 48299864,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-48299864.onnx",
+                "reward": null,
+                "creation_time": 1714125677.2809548,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-48299864.pt"
+                ]
+            },
+            {
+                "steps": 48399858,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-48399858.onnx",
+                "reward": null,
+                "creation_time": 1714125775.1534028,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-48399858.pt"
+                ]
+            },
+            {
+                "steps": 48499838,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-48499838.onnx",
+                "reward": 2285.3720265626907,
+                "creation_time": 1714125868.553388,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-48499838.pt"
+                ]
+            },
+            {
+                "steps": 48599966,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-48599966.onnx",
+                "reward": null,
+                "creation_time": 1714125964.019477,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-48599966.pt"
+                ]
+            },
+            {
+                "steps": 48699753,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-48699753.onnx",
+                "reward": 2003.0218386650085,
+                "creation_time": 1714126059.944572,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-48699753.pt"
+                ]
+            },
+            {
+                "steps": 48799762,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-48799762.onnx",
+                "reward": 2517.176223754883,
+                "creation_time": 1714126156.121876,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-48799762.pt"
+                ]
+            },
+            {
+                "steps": 48899861,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-48899861.onnx",
+                "reward": 1022.4340705871582,
+                "creation_time": 1714126251.1186612,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-48899861.pt"
+                ]
+            },
+            {
+                "steps": 48999754,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-48999754.onnx",
+                "reward": 675.5851287841797,
+                "creation_time": 1714126346.351509,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-48999754.pt"
+                ]
+            },
+            {
+                "steps": 49099748,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-49099748.onnx",
+                "reward": null,
+                "creation_time": 1714126443.430105,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-49099748.pt"
+                ]
+            },
+            {
+                "steps": 49199861,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-49199861.onnx",
+                "reward": null,
+                "creation_time": 1714126539.380069,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-49199861.pt"
+                ]
+            },
+            {
+                "steps": 49299781,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-49299781.onnx",
+                "reward": null,
+                "creation_time": 1714126634.774701,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-49299781.pt"
+                ]
+            },
+            {
+                "steps": 49399804,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-49399804.onnx",
+                "reward": null,
+                "creation_time": 1714126730.070148,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-49399804.pt"
+                ]
+            },
+            {
+                "steps": 49499870,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-49499870.onnx",
+                "reward": 1154.813108921051,
+                "creation_time": 1714126823.389378,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-49499870.pt"
+                ]
+            },
+            {
+                "steps": 49599981,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-49599981.onnx",
+                "reward": 1968.5881729125977,
+                "creation_time": 1714126918.515033,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-49599981.pt"
+                ]
+            },
+            {
+                "steps": 49699992,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-49699992.onnx",
+                "reward": 867.4788188934326,
+                "creation_time": 1714127014.291975,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-49699992.pt"
+                ]
+            },
+            {
+                "steps": 49799894,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-49799894.onnx",
+                "reward": 4472.236042022705,
+                "creation_time": 1714127108.823081,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-49799894.pt"
+                ]
+            },
+            {
+                "steps": 49899888,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-49899888.onnx",
+                "reward": null,
+                "creation_time": 1714127206.1989188,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-49899888.pt"
+                ]
+            },
+            {
+                "steps": 49999851,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-49999851.onnx",
+                "reward": null,
+                "creation_time": 1714127300.022094,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-49999851.pt"
+                ]
+            },
+            {
+                "steps": 50000115,
+                "file_path": "results/test8Tot/CarBehavior/CarBehavior-50000115.onnx",
+                "reward": null,
+                "creation_time": 1714127300.0728629,
+                "auxillary_file_paths": [
+                    "results/test8Tot/CarBehavior/CarBehavior-50000115.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 50000115,
+            "file_path": "results/test8Tot/CarBehavior.onnx",
+            "reward": null,
+            "creation_time": 1714127300.0728629,
+            "auxillary_file_paths": [
+                "results/test8Tot/CarBehavior/CarBehavior-50000115.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.0.0",
+        "torch_version": "2.1.1"
+    }
+}
