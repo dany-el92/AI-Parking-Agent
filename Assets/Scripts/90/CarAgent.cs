@@ -166,13 +166,13 @@ public class CarAgent : Agent {
 
         // Somma le distanze dei sensori per ogni lato per verificare quale lato vede solo spazio e controlla se i sensori rilevano la strada.
         // Se su un lato c'è solo spazio significa che è il lato opposto a quello in cui si trovano i parcheggi, 
-        // oppure se i sensori non rilevano la strada/marciapiede su un lato e sull'altro la distanza è breve, 
+        // oppure se i sensori non rilevano la strada/marciapiede su un lato e sull'altro la distanza è lunga, 
         // significa che il lato che non rileva la strada/marciapiede è il lato opposto a quello in cui si trovano i parcheggi
-        if((RpMeasurements.RDistL.Sum() < RpMeasurements.RDistR.Sum()) || (RpMeasurements.hitRoadR == false && RpMeasurements.RDistL[2] < 0.8f)) {
+        if((RpMeasurements.RDistL.Sum() < RpMeasurements.RDistR.Sum()) || (RpMeasurements.hitRoadR == false && RpMeasurements.RDistL[2] > 0.8f)) {
             LeftLikelihoodScore += 1;
         } 
 
-        if((RpMeasurements.RDistL.Sum() > RpMeasurements.RDistR.Sum()) || (RpMeasurements.hitRoadL == false && RpMeasurements.RDistR[2] < 0.8f)) {
+        if((RpMeasurements.RDistL.Sum() > RpMeasurements.RDistR.Sum()) || (RpMeasurements.hitRoadL == false && RpMeasurements.RDistR[2] > 0.8f)) {
             RightLikelihoodScore += 1;
         }
         

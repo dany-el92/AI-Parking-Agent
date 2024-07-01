@@ -167,11 +167,11 @@ public class CarAgentParallel : Agent {
             RightLikelihoodScore += 1;
         }
 
-        if((RpMeasurements.RDistL.Sum() < RpMeasurements.RDistR.Sum()) || (RpMeasurements.hitRoadR == false && RpMeasurements.RDistL[2] < 0.5f)) {
+        if((RpMeasurements.RDistL.Sum() < RpMeasurements.RDistR.Sum()) || (RpMeasurements.hitRoadR == false && RpMeasurements.RDistL[2] > 0.5f)) {
             LeftLikelihoodScore += 1;
         } 
 
-        if((RpMeasurements.RDistL.Sum() > RpMeasurements.RDistR.Sum()) || (RpMeasurements.hitRoadL == false && RpMeasurements.RDistR[2] < 0.5f)) {
+        if((RpMeasurements.RDistL.Sum() > RpMeasurements.RDistR.Sum()) || (RpMeasurements.hitRoadL == false && RpMeasurements.RDistR[2] > 0.5f)) {
             RightLikelihoodScore += 1;
         }
         

@@ -6043,7 +6043,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8641557043448449411, guid: de1c509ca29674039bb6a3b16b304219, type: 3}
       propertyPath: DrivingDistance
-      value: 75
+      value: 80
       objectReference: {fileID: 0}
     - target: {fileID: 8641557043448449411, guid: de1c509ca29674039bb6a3b16b304219, type: 3}
       propertyPath: DrivingSpeedVariance

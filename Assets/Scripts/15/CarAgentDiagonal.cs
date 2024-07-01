@@ -159,6 +159,8 @@ public class CarAgentDiagonal : Agent {
         int LeftLikelihoodScore = 0;
         int RightLikelihoodScore = 0; 
 
+        // print(RpMeasurements.RDistL[2] + " - " + RpMeasurements.RDistR[2]);
+
         // Controlla se i sensori laterali sinistri e destri rilevano una distanza lunga
         if(RpMeasurements.RDistL[2] > 0.8f) {
             LeftLikelihoodScore += 1;
@@ -167,15 +169,16 @@ public class CarAgentDiagonal : Agent {
             RightLikelihoodScore += 1;
         }
 
-        if((RpMeasurements.RDistL.Sum() < RpMeasurements.RDistR.Sum()) || (RpMeasurements.hitRoadR == false && RpMeasurements.RDistL[2] < 0.8f)) {
+        // Confronta la somma delle distanze dei sensori laterali sinistri e destri e controlla se uno dei lati urta il marciapiede
+        if((RpMeasurements.RDistL.Sum() < RpMeasurements.RDistR.Sum()) || (RpMeasurements.hitRoadR == false && RpMeasurements.RDistL[2] > 0.8f)) {
             LeftLikelihoodScore += 1;
         } 
 
-        if((RpMeasurements.RDistL.Sum() > RpMeasurements.RDistR.Sum()) || (RpMeasurements.hitRoadL == false && RpMeasurements.RDistR[2] < 0.8f)) {
+        if((RpMeasurements.RDistR.Sum() < RpMeasurements.RDistL.Sum()) || (RpMeasurements.hitRoadL == false && RpMeasurements.RDistR[2] > 0.8f)) {
             RightLikelihoodScore += 1;
         }
         
-        // Se i sensori laterali sinistri e destri rilevano due strisce allora la macchina si trova in uno spazio di parcheggio libero 
+        // Se i sensori laterali sinistri e destri rilevano due strisce e le piante allora la macchina si trova in uno spazio di parcheggio
         if(RpMeasurements.hitStripeLF && RpMeasurements.hitStripeLB) {
             LeftLikelihoodScore += 1;
         } 
